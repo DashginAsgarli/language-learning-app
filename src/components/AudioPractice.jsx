@@ -9,22 +9,22 @@ function AudioPractice() {
     const longText = "Language is the roadmap of a culture. It tells you where its people come from and where they are going. While AI accelerates your pace, your persistence defines your reach. Each word you master is a seed planted for a forest of opportunities. Remember: greatness is not found in big steps, but in small steps taken every single day.";
     const words = longText.split(" ");
 
-    function fetchWordDefinition(word) {
-        const cleanWord = word.replace(/[.,:;]/g, "");
-        setIsLoading(true); setWordData(null);
-        fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${cleanWord}`)
-            .then(res => res.json())
-            .then(data => {
-                if (data && !data.title) {
-                    setWordData({
-                        word: data[0].word, phonetic: data[0].phonetic || "/.../",
-                        definition: data[0].meanings[0].definitions[0].definition,
-                        partOfSpeech: data[0].meanings[0].partOfSpeech,
-                        audio: data[0].phonetics.find(p => p.audio)?.audio
-                    });
-                } else setWordData({ error: "Söz tapılmadı" });
-            }).catch(() => setWordData({ error: "Xəta!" })).finally(() => setIsLoading(false));
-    }
+    // function fetchWordDefinition(word) {
+    //     const cleanWord = word.replace(/[.,:;]/g, "");
+    //     setIsLoading(true); setWordData(null);
+    //     fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${cleanWord}`)
+    //         .then(res => res.json())
+    //         .then(data => {
+    //             if (data && !data.title) {
+    //                 setWordData({
+    //                     word: data[0].word, phonetic: data[0].phonetic || "/.../",
+    //                     definition: data[0].meanings[0].definitions[0].definition,
+    //                     partOfSpeech: data[0].meanings[0].partOfSpeech,
+    //                     audio: data[0].phonetics.find(p => p.audio)?.audio
+    //                 });
+    //             } else setWordData({ error: "Söz tapılmadı" });
+    //         }).catch(() => setWordData({ error: "Xəta!" })).finally(() => setIsLoading(false));
+    // }
 
     function handleSpeakText() {
         window.speechSynthesis.cancel();
