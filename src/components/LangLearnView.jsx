@@ -145,7 +145,7 @@ function LangLearnView({ lesson, onBack, onComplete, isCompleted }) {
                         </>
                     )}
 
-                    <section className="p-5 md:p-8 rounded-[24px] md:rounded-[32px] bg-white border border-slate-200 shadow-2xl mb-8">
+                    <section className="p-5 md:p-8 rounded-[24px]  bg-white border border-slate-200  mb-8">
                         {!showResult ? (
                             <>
                                 <div className="flex items-center justify-between mb-6">
