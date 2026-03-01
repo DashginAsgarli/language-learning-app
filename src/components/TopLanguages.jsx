@@ -66,7 +66,7 @@ function TopLanguages() {
                     <div ref={scrollRef} className="flex md:grid md:grid-cols-2 lg:grid-cols-4 gap-6 overflow-x-auto snap-x snap-mandatory scrollbar-hide pb-8" style={{ scrollbarWidth: 'none', msOverflowStyle: 'none' }}>
                         {topLang.map((lang) => (
                             <div key={lang.id} className="min-w-[85%] sm:min-w-[45%] md:min-w-full snap-center group">
-                                <div className="h-full p-8 rounded-[2.5rem] bg-white border border-slate-100 transition-all duration-500 relative overflow-hidden">
+                                <div className="h-full p-8 rounded-[1rem] bg-white border border-slate-100 transition-all duration-500 relative overflow-hidden">
 
                                     <div className="absolute top-6 right-8 text-6xl font-black text-slate-50 transition-colors pointer-events-none">
                                         {lang.rank}

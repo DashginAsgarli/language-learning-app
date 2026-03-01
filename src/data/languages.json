@@ -1,0 +1,2185 @@
+{
+    "grammarLessons": [
+        {
+            "id": 1,
+            "title": "Present Simple Tense",
+            "category": "Tenses",
+            "level": "Beginner",
+            "duration": "15 dəqiqə",
+            "points": 50,
+            "content": {
+                "description": "Present Simple cari vərdişləri, ümumi həqiqətləri və daimi vəziyyətləri ifadə etmək üçün istifadə olunur. Bu zaman əsasən gündəlik rutin hərəkətləri, elmi həqiqətləri və dəyişməz vəziyyətləri təsvir etmək üçün yaxşıdır. Məsələn, 'The sun rises in the east' cümləsində olduğu kimi ümumi həqiqətləri ifadə edir. Həmçinin, 'I work every day' kimi cümlələrdə təkrar olunan hərəkətləri göstərir. Bu zamanın istifadəsi çox genişdir və ingilis dilinin əsas zamanlarından biridir.",
+                "formula": "Subject + Verb (base form) + Object",
+                "examples": [
+                    "I work in a bank.",
+                    "She lives in London.",
+                    "The sun rises in the east.",
+                    "We play football every weekend.",
+                    "He always arrives on time.",
+                    "Water boils at 100 degrees Celsius.",
+                    "They speak French fluently.",
+                    "Cats like milk."
+                ],
+                "rules": [
+                    "3-cü şəxs təkində (he/she/it) feli -s, -es şəkilçisi alır",
+                    "Mənfi cümlələrdə 'do not' (don't) və ya 'does not' (doesn't) istifadə olunur",
+                    "Sual cümlələrində 'do' və ya 'does' başlanğıcda gəlir",
+                    "Adətən every day, always, usually, often, sometimes, never kimi zaman ifadələri ilə işlənir",
+                    "Elmi həqiqətlər və ümumi qanunlar üçün istifadə olunur",
+                    "Cədvəlli nəqliyyat və proqramlar üçün istifadə oluna bilər",
+                    "He, she, it üçün -s şəkilçisi əlavə olunur, digər şəxslər üçün fel dəyişmir",
+                    "Əgər fel -s, -sh, -ch, -x, -o ilə bitirsə, -es şəkilçisi əlavə olunur"
+                ],
+                "commonMistakes": [
+                    "❌ He go to school → ✅ He goes to school",
+                    "❌ Does she lives here? → ✅ Does she live here?",
+                    "❌ I not like coffee → ✅ I don't like coffee",
+                    "❌ She don't know → ✅ She doesn't know",
+                    "❌ Do he works here? → ✅ Does he work here?"
+                ],
+                "practice": [
+                    {
+                        "question": "She _____ (work) in a hospital.",
+                        "options": [
+                            "work",
+                            "works",
+                            "working"
+                        ],
+                        "correct": "works"
+                    },
+                    {
+                        "question": "_____ you speak English?",
+                        "options": [
+                            "Do",
+                            "Does",
+                            "Are"
+                        ],
+                        "correct": "Do"
+                    },
+                    {
+                        "question": "They _____ (not/like) pizza.",
+                        "options": [
+                            "doesn't like",
+                            "don't like",
+                            "not like"
+                        ],
+                        "correct": "don't like"
+                    },
+                    {
+                        "question": "My brother _____ (study) at university.",
+                        "options": [
+                            "study",
+                            "studies",
+                            "studying"
+                        ],
+                        "correct": "studies"
+                    },
+                    {
+                        "question": "_____ the train _____ (arrive) at 8 PM?",
+                        "options": [
+                            "Do/arrive",
+                            "Does/arrives",
+                            "Does/arrive"
+                        ],
+                        "correct": "Does/arrive"
+                    },
+                    {
+                        "question": "We _____ (watch) TV every evening.",
+                        "options": [
+                            "watch",
+                            "watches",
+                            "watching"
+                        ],
+                        "correct": "watch"
+                    },
+                    {
+                        "question": "He _____ (not/play) tennis on Mondays.",
+                        "options": [
+                            "don't play",
+                            "doesn't play",
+                            "not plays"
+                        ],
+                        "correct": "doesn't play"
+                    },
+                    {
+                        "question": "_____ your parents _____ (live) in Baku?",
+                        "options": [
+                            "Do/live",
+                            "Does/live",
+                            "Do/lives"
+                        ],
+                        "correct": "Do/live"
+                    },
+                    {
+                        "question": "The earth _____ (go) around the sun.",
+                        "options": [
+                            "go",
+                            "goes",
+                            "going"
+                        ],
+                        "correct": "goes"
+                    },
+                    {
+                        "question": "I _____ (have) breakfast at 7 AM every day.",
+                        "options": [
+                            "has",
+                            "have",
+                            "having"
+                        ],
+                        "correct": "have"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "title": "Past Simple Tense",
+            "category": "Tenses",
+            "level": "Beginner",
+            "duration": "20 dəqiqə",
+            "points": 60,
+            "content": {
+                "description": "Past Simple keçmişdə baş vermiş və tamamlanmış hərəkətləri ifadə etmək üçün istifadə olunur. Bu zaman xüsusi bir vaxtda baş vermiş hərəkətləri, ardıcıl hadisələri və keçmişdəki vəziyyətləri təsvir edir. Hərəkətin nə vaxt baş verdiyi məlum olduqda və ya keçmişdəki bir zaman ifadəsi ilə işləndikdə istifadə olunur. Məsələn, 'I visited Paris last year' cümləsində olduğu kimi tamamlanmış bir hərəkəti ifadə edir. Bu zaman keçmişdə baş verib bitmiş hadisələri anlatmaq üçün ideal bir zamandır.",
+                "formula": "Subject + Verb (past form) + Object",
+                "examples": [
+                    "I watched a movie yesterday.",
+                    "She visited her grandparents last week.",
+                    "They played football when they were children.",
+                    "We finished our homework an hour ago.",
+                    "He lived in London for five years.",
+                    "The concert started at 8 PM.",
+                    "She bought a new car last month.",
+                    "They graduated from university in 2020."
+                ],
+                "rules": [
+                    "Normal fellərə -ed şəkilçisi əlavə olunur",
+                    "Düzgün olmayan fellərin (irregular verbs) xüsusi formada olur",
+                    "Zaman ifadələri: yesterday, last week, in 2020, ago, when",
+                    "Mənfi cümlələrdə 'did not' (didn't) + felin əsas forması istifadə olunur",
+                    "Sual cümlələrində 'did' + subyekt + felin əsas forması",
+                    "Keçmişdəki ardıcıl hadisələri anlatmaq üçün istifadə olunur",
+                    "İstənilən subyekt üçün 'did' eyni qalır, dəyişmir",
+                    "Keçmişdəki vəziyyətləri və alışqanlıqları ifadə edə bilər"
+                ],
+                "commonMistakes": [
+                    "❌ I goed to school → ✅ I went to school",
+                    "❌ Did she went? → ✅ Did she go?",
+                    "❌ They didn't studied → ✅ They didn't study",
+                    "❌ He didn't went → ✅ He didn't go",
+                    "❌ Was you happy? → ✅ Were you happy?"
+                ],
+                "practice": [
+                    {
+                        "question": "I _____ (see) him yesterday.",
+                        "options": [
+                            "see",
+                            "saw",
+                            "seen"
+                        ],
+                        "correct": "saw"
+                    },
+                    {
+                        "question": "_____ you go to the party last night?",
+                        "options": [
+                            "Did",
+                            "Do",
+                            "Were"
+                        ],
+                        "correct": "Did"
+                    },
+                    {
+                        "question": "She _____ (not/eat) breakfast this morning.",
+                        "options": [
+                            "didn't eat",
+                            "doesn't eat",
+                            "not ate"
+                        ],
+                        "correct": "didn't eat"
+                    },
+                    {
+                        "question": "We _____ (visit) the museum last weekend.",
+                        "options": [
+                            "visit",
+                            "visited",
+                            "visiting"
+                        ],
+                        "correct": "visited"
+                    },
+                    {
+                        "question": "_____ they _____ (finish) their project?",
+                        "options": [
+                            "Did/finished",
+                            "Did/finish",
+                            "Do/finish"
+                        ],
+                        "correct": "Did/finish"
+                    },
+                    {
+                        "question": "He _____ (buy) a new phone yesterday.",
+                        "options": [
+                            "buy",
+                            "bought",
+                            "buyed"
+                        ],
+                        "correct": "bought"
+                    },
+                    {
+                        "question": "I _____ (not/sleep) well last night.",
+                        "options": [
+                            "didn't sleep",
+                            "don't sleep",
+                            "not slept"
+                        ],
+                        "correct": "didn't sleep"
+                    },
+                    {
+                        "question": "_____ she _____ (study) English at school?",
+                        "options": [
+                            "Did/studied",
+                            "Did/study",
+                            "Does/study"
+                        ],
+                        "correct": "Did/study"
+                    },
+                    {
+                        "question": "They _____ (arrive) late to the meeting.",
+                        "options": [
+                            "arrive",
+                            "arrived",
+                            "arriving"
+                        ],
+                        "correct": "arrived"
+                    },
+                    {
+                        "question": "The movie _____ (start) at 9 PM.",
+                        "options": [
+                            "start",
+                            "started",
+                            "starts"
+                        ],
+                        "correct": "started"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "title": "Present Continuous Tense",
+            "category": "Tenses",
+            "level": "Intermediate",
+            "duration": "25 dəqiqə",
+            "points": 70,
+            "content": {
+                "description": "Present Continuous hal-hazırda davam edən hərəkətləri və ya yaxın gələcək planları ifadə etmək üçün istifadə olunur. Bu zaman indiki anda baş verən və davam edən hərəkətləri təsvir edir. Həmçinin, müvəqqəti vəziyyətləri, dəyişən vəziyyətləri və narazılıq ifadə etmək üçün də istifadə oluna bilər. Məsələn, 'I am reading a book now' cümləsində olduğu kindi hazırda davam edən bir hərəkəti ifadə edir. Bu zaman tez-tez 'now', 'at the moment', 'currently' kimi zaman ifadələri ilə birgə işlənir. Həmçinin, yaxın gələcəkdə planlaşdırılmış hərəkətləri ifadə etmək üçün də istifadə oluna bilər.",
+                "formula": "Subject + am/is/are + Verb-ing + Object",
+                "examples": [
+                    "I am studying English now.",
+                    "She is watching TV at the moment.",
+                    "They are coming to dinner tonight.",
+                    "We are working on a new project.",
+                    "He is staying with his parents this week.",
+                    "The weather is getting warmer.",
+                    "I am meeting my friend tomorrow.",
+                    "She is always complaining about something."
+                ],
+                "rules": [
+                    "am/is/are yardımçı felləri + fel-ing forması",
+                    "Hal-hazırki anı ifadə edən sözlər: now, at the moment, currently",
+                    "Mənfi cümlələrdə 'not' yardımçı feldən sonra gəlir",
+                    "Yaxın gələcək planlar üçün istifadə oluna bilər",
+                    "Dəyişən vəziyyətləri ifadə edir",
+                    "Müvəqqəti hərəkətlər üçün istifadə olunur",
+                    "Always ilə işləndikdə narazılıq ifadə edir",
+                    "Bəzi fellər (like, want, need) bu zamanda işlənmir"
+                ],
+                "commonMistakes": [
+                    "❌ I studying now → ✅ I am studying now",
+                    "❌ She is watch TV → ✅ She is watching TV",
+                    "❌ Are they coming? Yes, they're → ✅ Yes, they are",
+                    "❌ He is not understanding → ✅ He does not understand",
+                    "❌ I am wanting a coffee → ✅ I want a coffee"
+                ],
+                "practice": [
+                    {
+                        "question": "Look! It _____ (rain).",
+                        "options": [
+                            "rain",
+                            "rains",
+                            "is raining"
+                        ],
+                        "correct": "is raining"
+                    },
+                    {
+                        "question": "_____ you _____ (listen) to me?",
+                        "options": [
+                            "Do/listen",
+                            "Are/listening",
+                            "Is/listening"
+                        ],
+                        "correct": "Are/listening"
+                    },
+                    {
+                        "question": "I _____ (not/work) right now.",
+                        "options": [
+                            "am not working",
+                            "don't work",
+                            "not working"
+                        ],
+                        "correct": "am not working"
+                    },
+                    {
+                        "question": "She _____ (study) for her exam at the moment.",
+                        "options": [
+                            "studies",
+                            "is studying",
+                            "study"
+                        ],
+                        "correct": "is studying"
+                    },
+                    {
+                        "question": "_____ they _____ (come) to the party tomorrow?",
+                        "options": [
+                            "Are/coming",
+                            "Do/come",
+                            "Will/come"
+                        ],
+                        "correct": "Are/coming"
+                    },
+                    {
+                        "question": "We _____ (have) dinner now.",
+                        "options": [
+                            "have",
+                            "are having",
+                            "has"
+                        ],
+                        "correct": "are having"
+                    },
+                    {
+                        "question": "He _____ (not/watch) TV, he's reading.",
+                        "options": [
+                            "isn't watching",
+                            "doesn't watch",
+                            "not watching"
+                        ],
+                        "correct": "isn't watching"
+                    },
+                    {
+                        "question": "_____ your brother _____ (work) today?",
+                        "options": [
+                            "Is/working",
+                            "Does/work",
+                            "Do/work"
+                        ],
+                        "correct": "Is/working"
+                    },
+                    {
+                        "question": "The children _____ (play) in the garden.",
+                        "options": [
+                            "play",
+                            "plays",
+                            "are playing"
+                        ],
+                        "correct": "are playing"
+                    },
+                    {
+                        "question": "I _____ (stay) at a hotel this week.",
+                        "options": [
+                            "stay",
+                            "am staying",
+                            "staying"
+                        ],
+                        "correct": "am staying"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "title": "Future Simple Tense",
+            "category": "Tenses",
+            "level": "Intermediate",
+            "duration": "20 dəqiqə",
+            "points": 65,
+            "content": {
+                "description": "Future Simple gələcək hərəkətləri, vəd və təklifləri ifadə etmək üçün istifadə olunur. Bu zaman qərar anında verilən qərarları, gələcəkdəki ehtimal olunan hadisələri və söz vermələri ifadə edir. Məsələn, 'I will help you with your homework' cümləsində olduğu kimi bir vədi ifadə edir. Bu zaman tez-tez 'tomorrow', 'next week', 'soon', 'in the future' kimi zaman ifadələri ilə birgə işlənir. Həmçinin, təklif etmək, söz vermək, xəbərdarlıq etmək və gələcək proqnozlar üçün istifadə oluna bilər. Bu zaman ingilis dilində gələcək zaman ifadə etmək üçün əsas üsullardan biridir.",
+                "formula": "Subject + will + Verb (base form) + Object",
+                "examples": [
+                    "I will call you tomorrow.",
+                    "She will finish her work soon.",
+                    "They will help you with the project.",
+                    "We will travel to Spain next year.",
+                    "It will rain later.",
+                    "I will not tell anyone your secret.",
+                    "Will you marry me?",
+                    "He will probably arrive late."
+                ],
+                "rules": [
+                    "will + felin əsas forması",
+                    "Bütün şəxslər üçün eyni formada qalır",
+                    "Qısaldılmış forması: I'll, you'll, he'll, she'll, it'll, we'll, they'll",
+                    "Mənfi cümlələrdə: will not → won't",
+                    "Sual cümlələrində will başlanğıcda gəlir",
+                    "Qərar anında verilən qərarlar üçün istifadə olunur",
+                    "Gələcək proqnozlar və təxminlər üçün istifadə olunur",
+                    "Təklif, vəd və xəbərdarlıq ifadə etmək üçün yaxşıdır"
+                ],
+                "commonMistakes": [
+                    "❌ I will to go → ✅ I will go",
+                    "❌ He wills come → ✅ He will come",
+                    "❌ Will you helps me? → ✅ Will you help me?",
+                    "❌ I will going → ✅ I will go",
+                    "❌ She will not comes → ✅ She will not come"
+                ],
+                "practice": [
+                    {
+                        "question": "I _____ (meet) you at 5 PM.",
+                        "options": [
+                            "meet",
+                            "will meet",
+                            "am meeting"
+                        ],
+                        "correct": "will meet"
+                    },
+                    {
+                        "question": "_____ you _____ (come) to the party?",
+                        "options": [
+                            "Will/come",
+                            "Do/come",
+                            "Are/coming"
+                        ],
+                        "correct": "Will/come"
+                    },
+                    {
+                        "question": "She _____ (not/be) late.",
+                        "options": [
+                            "won't be",
+                            "will not be",
+                            "both are correct"
+                        ],
+                        "correct": "both are correct"
+                    },
+                    {
+                        "question": "We _____ (probably/visit) them next month.",
+                        "options": [
+                            "probably visit",
+                            "will probably visit",
+                            "are probably visiting"
+                        ],
+                        "correct": "will probably visit"
+                    },
+                    {
+                        "question": "_____ he _____ (help) us with the move?",
+                        "options": [
+                            "Will/help",
+                            "Does/help",
+                            "Is/helping"
+                        ],
+                        "correct": "Will/help"
+                    },
+                    {
+                        "question": "I think it _____ (rain) tomorrow.",
+                        "options": [
+                            "rains",
+                            "will rain",
+                            "is raining"
+                        ],
+                        "correct": "will rain"
+                    },
+                    {
+                        "question": "They _____ (not/forget) your birthday.",
+                        "options": [
+                            "don't forget",
+                            "won't forget",
+                            "aren't forgetting"
+                        ],
+                        "correct": "won't forget"
+                    },
+                    {
+                        "question": "_____ you _____ (tell) him the truth?",
+                        "options": [
+                            "Will/tell",
+                            "Do/tell",
+                            "Are/telling"
+                        ],
+                        "correct": "Will/tell"
+                    },
+                    {
+                        "question": "I promise I _____ (call) you later.",
+                        "options": [
+                            "call",
+                            "am calling",
+                            "will call"
+                        ],
+                        "correct": "will call"
+                    },
+                    {
+                        "question": "She _____ (be) 25 next year.",
+                        "options": [
+                            "is",
+                            "will be",
+                            "is being"
+                        ],
+                        "correct": "will be"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "title": "Present Perfect Tense",
+            "category": "Tenses",
+            "level": "Advanced",
+            "duration": "30 dəqiqə",
+            "points": 80,
+            "content": {
+                "description": "Present Perfect keçmişdə başlamış və indiyə təsiri olan və ya hələ davam edən hərəkətləri ifadə etmək üçün istifadə olunur. Bu zaman keçmişdə baş verən lakin nəticələri hazırkı zamana təsir edən hərəkətləri təsvir edir. Məsələn, 'I have lost my keys' cümləsində olduğu kimi keçmişdə baş verən bir hadisənin hazırkı anda da davam edən nəticəsini ifadə edir. Bu zaman tez-tez 'ever', 'never', 'already', 'yet', 'since', 'for' kimi zaman ifadələri ilə birgə işlənir. Həmçinin, həyat təcrübələrini, dəyişiklikləri və bitməmiş vaxt dövrlərini ifadə etmək üçün də istifadə oluna bilər. Bu zaman ingilis dilində ən çətin anlaşılan zamanlardan biridir.",
+                "formula": "Subject + have/has + Verb (past participle) + Object",
+                "examples": [
+                    "I have visited Paris three times.",
+                    "She has finished her homework already.",
+                    "They have lived here since 2010.",
+                    "We have never seen that movie.",
+                    "He has just arrived.",
+                    "I have known her for ten years.",
+                    "Have you ever been to Japan?",
+                    "She hasn't eaten yet today."
+                ],
+                "rules": [
+                    "have/has + felin 3-cü forması (past participle)",
+                    "He/she/it üçün has, digərləri üçün have",
+                    "Zaman ifadələri: ever, never, already, yet, since, for, just, recently",
+                    "Təcrübə, dəyişiklik və bitməmiş vaxt ifadə edir",
+                    "Keçmişdə başlayıb indiyə qədər davam edən hərəkətlər üçün istifadə olunur",
+                    "Xüsusi bir vaxt göstərilmədikdə istifadə olunur",
+                    "Həyat təcrübələrini ifadə etmək üçün ideal bir zamandır",
+                    "Since' müəyyən bir vaxt nöqtəsi, 'for' isə müəyyən bir müddət ifadə edir"
+                ],
+                "commonMistakes": [
+                    "❌ I have saw that movie → ✅ I have seen that movie",
+                    "❌ She has finish her work → ✅ She has finished her work",
+                    "❌ Have you ever been in London? → ✅ Have you ever been to London?",
+                    "❌ I have been here since three hours → ✅ I have been here for three hours",
+                    "❌ She has left yesterday → ✅ She left yesterday"
+                ],
+                "practice": [
+                    {
+                        "question": "I _____ (live) here for 5 years.",
+                        "options": [
+                            "live",
+                            "lived",
+                            "have lived"
+                        ],
+                        "correct": "have lived"
+                    },
+                    {
+                        "question": "_____ you _____ (finish) your work yet?",
+                        "options": [
+                            "Have/finished",
+                            "Did/finish",
+                            "Do/finish"
+                        ],
+                        "correct": "Have/finished"
+                    },
+                    {
+                        "question": "She _____ (not/visit) the new museum.",
+                        "options": [
+                            "hasn't visited",
+                            "didn't visit",
+                            "doesn't visit"
+                        ],
+                        "correct": "hasn't visited"
+                    },
+                    {
+                        "question": "We _____ (know) each other since childhood.",
+                        "options": [
+                            "know",
+                            "knew",
+                            "have known"
+                        ],
+                        "correct": "have known"
+                    },
+                    {
+                        "question": "_____ he ever _____ (try) sushi?",
+                        "options": [
+                            "Has/tried",
+                            "Did/try",
+                            "Does/try"
+                        ],
+                        "correct": "Has/tried"
+                    },
+                    {
+                        "question": "I _____ (just/see) your brother at the mall.",
+                        "options": [
+                            "just saw",
+                            "have just seen",
+                            "just see"
+                        ],
+                        "correct": "have just seen"
+                    },
+                    {
+                        "question": "They _____ (not/decide) yet.",
+                        "options": [
+                            "didn't decide",
+                            "haven't decided",
+                            "don't decide"
+                        ],
+                        "correct": "haven't decided"
+                    },
+                    {
+                        "question": "_____ you _____ (read) this book before?",
+                        "options": [
+                            "Have/read",
+                            "Did/read",
+                            "Do/read"
+                        ],
+                        "correct": "Have/read"
+                    },
+                    {
+                        "question": "She _____ (work) here since 2018.",
+                        "options": [
+                            "works",
+                            "worked",
+                            "has worked"
+                        ],
+                        "correct": "has worked"
+                    },
+                    {
+                        "question": "We _____ (never/be) to Australia.",
+                        "options": [
+                            "never were",
+                            "have never been",
+                            "never be"
+                        ],
+                        "correct": "have never been"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "title": "Past Continuous Tense",
+            "category": "Tenses",
+            "level": "Intermediate",
+            "duration": "25 dəqiqə",
+            "points": 70,
+            "content": {
+                "description": "Past Continuous keçmişdə müəyyən bir zamanda davam edən hərəkətləri və ya iki eyni vaxtda baş verən hərəkətləri ifadə etmək üçün istifadə olunur. Bu zaman tez-tez iki hərəkətin eyni vaxtda baş verdiyini, bir hərəkətin digərini kəsdiyini və ya keçmişdə müəyyən bir vaxtda nə baş verdiyini təsvir etmək üçün istifadə olunur. Məsələn, 'I was watching TV when you called' cümləsində bir hərəkət digərini kəsir.",
+                "formula": "Subject + was/were + Verb-ing + Object",
+                "examples": [
+                    "I was studying when she arrived.",
+                    "They were playing football at 5 PM yesterday.",
+                    "She was cooking dinner while he was watching TV.",
+                    "We were walking in the park when it started to rain.",
+                    "He was talking on the phone all evening.",
+                    "The children were sleeping when I got home.",
+                    "I was reading a book at this time yesterday.",
+                    "They were having a meeting when the fire alarm went off."
+                ],
+                "rules": [
+                    "was (I/he/she/it) və were (you/we/they) + fel-ing forması",
+                    "Keçmişdə müəyyən bir zamanda davam edən hərəkətlər üçün istifadə olunur",
+                    "İki eyni vaxtda baş verən hərəkətləri ifadə edir: while + Past Continuous",
+                    "Bir hərəkət digərini kəsəndə: when + Simple Past",
+                    "Zaman ifadələri: at 5 PM yesterday, while, when, all day, all evening",
+                    "Keçmişdəki müvəqqəti vəziyyətləri ifadə edir",
+                    "Nəzakətli suallar üçün istifadə oluna bilər",
+                    "Arxa plan məlumatı vermək üçün yaxşıdır"
+                ],
+                "commonMistakes": [
+                    "❌ I was study when she called → ✅ I was studying when she called",
+                    "❌ They were play chess → ✅ They were playing chess",
+                    "❌ Was you sleeping? → ✅ Were you sleeping?",
+                    "❌ He were watching TV → ✅ He was watching TV",
+                    "❌ I was cook dinner at 7 PM → ✅ I was cooking dinner at 7 PM"
+                ],
+                "practice": [
+                    {
+                        "question": "I _____ (watch) TV when the phone rang.",
+                        "options": [
+                            "was watching",
+                            "watched",
+                            "am watching"
+                        ],
+                        "correct": "was watching"
+                    },
+                    {
+                        "question": "_____ you _____ (sleep) at 11 PM last night?",
+                        "options": [
+                            "Were/sleeping",
+                            "Did/sleep",
+                            "Are/sleeping"
+                        ],
+                        "correct": "Were/sleeping"
+                    },
+                    {
+                        "question": "They _____ (not/work) when I visited them.",
+                        "options": [
+                            "weren't working",
+                            "didn't work",
+                            "not working"
+                        ],
+                        "correct": "weren't working"
+                    },
+                    {
+                        "question": "She _____ (cook) dinner while he _____ (clean) the house.",
+                        "options": [
+                            "cooked/cleaned",
+                            "was cooking/was cleaning",
+                            "cooks/cleans"
+                        ],
+                        "correct": "was cooking/was cleaning"
+                    },
+                    {
+                        "question": "What _____ you _____ (do) at this time yesterday?",
+                        "options": [
+                            "did/do",
+                            "were/doing",
+                            "are/doing"
+                        ],
+                        "correct": "were/doing"
+                    },
+                    {
+                        "question": "We _____ (drive) to work when we saw the accident.",
+                        "options": [
+                            "drove",
+                            "were driving",
+                            "drive"
+                        ],
+                        "correct": "were driving"
+                    },
+                    {
+                        "question": "He _____ (not/listen) to the teacher during the lesson.",
+                        "options": [
+                            "didn't listen",
+                            "wasn't listening",
+                            "not listening"
+                        ],
+                        "correct": "wasn't listening"
+                    },
+                    {
+                        "question": "_____ it _____ (rain) when you left home?",
+                        "options": [
+                            "Did/rain",
+                            "Was/raining",
+                            "Is/raining"
+                        ],
+                        "correct": "Was/raining"
+                    },
+                    {
+                        "question": "The students _____ (take) an exam at 10 AM yesterday.",
+                        "options": [
+                            "took",
+                            "were taking",
+                            "take"
+                        ],
+                        "correct": "were taking"
+                    },
+                    {
+                        "question": "I _____ (read) a book all evening yesterday.",
+                        "options": [
+                            "read",
+                            "was reading",
+                            "am reading"
+                        ],
+                        "correct": "was reading"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "title": "Comparatives and Superlatives",
+            "category": "Adjectives",
+            "level": "Beginner",
+            "duration": "20 dəqiqə",
+            "points": 60,
+            "content": {
+                "description": "Comparatives və superlatives sifətlərin və zərflərin müqayisə dərəcələridir. Comparatives iki şeyi müqayisə etmək üçün istifadə olunur, superlatives isə üç və ya daha çox şey arasında ən yüksək dərəcəni ifadə etmək üçün istifadə olunur. Məsələn, 'big - bigger - biggest' sözündə olduğu kimi. Bu qaydalar obyektləri, insanları, yerləri və ya vəziyyətləri müqayisə etmək üçün əsas vasitələrdən biridir.",
+                "formula": "Comparative: adjective + -er / more + adjective | Superlative: adjective + -est / most + adjective",
+                "examples": [
+                    "My car is faster than your car.",
+                    "She is more intelligent than her brother.",
+                    "This is the tallest building in the city.",
+                    "He is the most talented player in the team.",
+                    "Today is hotter than yesterday.",
+                    "This book is more interesting than that one.",
+                    "Mount Everest is the highest mountain in the world.",
+                    "She is the most beautiful girl in our class."
+                ],
+                "rules": [
+                    "Bir hecalı sifətlərə -er/-est əlavə olunur: tall → taller → tallest",
+                    "İki hecalı sifətlər adətən more/most alır: careful → more careful → most careful",
+                    "İki hecalı sifətlərdən -y ilə bitənlər -ier/-iest olur: happy → happier → happiest",
+                    "Üç və ya daha çox hecalı sifətlər həmişə more/most alır: beautiful → more beautiful → most beautiful",
+                    "Düzgün olmayan sifətlər: good → better → best, bad → worse → worst",
+                    "Than comparatives ilə istifadə olunur",
+                    "The superlatives ilə istifadə olunur",
+                    "Comparatives ikili, superlatives üçlü və ya daha çoxlu müqayisələrdə istifadə olunur"
+                ],
+                "commonMistakes": [
+                    "❌ This is more big than that → ✅ This is bigger than that",
+                    "❌ She is the most tall → ✅ She is the tallest",
+                    "❌ It's more hot today → ✅ It's hotter today",
+                    "❌ He is more old than me → ✅ He is older than me",
+                    "❌ This is the expensivest car → ✅ This is the most expensive car"
+                ],
+                "practice": [
+                    {
+                        "question": "My sister is _____ (young) than me.",
+                        "options": [
+                            "young",
+                            "younger",
+                            "youngest"
+                        ],
+                        "correct": "younger"
+                    },
+                    {
+                        "question": "This is _____ (interesting) book I've ever read.",
+                        "options": [
+                            "the most interesting",
+                            "the interestingest",
+                            "more interesting"
+                        ],
+                        "correct": "the most interesting"
+                    },
+                    {
+                        "question": "He runs _____ (fast) than anyone else.",
+                        "options": [
+                            "fast",
+                            "faster",
+                            "fastest"
+                        ],
+                        "correct": "faster"
+                    },
+                    {
+                        "question": "Today was _____ (bad) day of my life.",
+                        "options": [
+                            "the worse",
+                            "the baddest",
+                            "the worst"
+                        ],
+                        "correct": "the worst"
+                    },
+                    {
+                        "question": "Her English is _____ (good) than mine.",
+                        "options": [
+                            "good",
+                            "better",
+                            "best"
+                        ],
+                        "correct": "better"
+                    },
+                    {
+                        "question": "This problem is _____ (difficult) than I thought.",
+                        "options": [
+                            "difficulter",
+                            "more difficult",
+                            "most difficult"
+                        ],
+                        "correct": "more difficult"
+                    },
+                    {
+                        "question": "He's _____ (intelligent) person I know.",
+                        "options": [
+                            "the most intelligent",
+                            "the intelligenter",
+                            "more intelligent"
+                        ],
+                        "correct": "the most intelligent"
+                    },
+                    {
+                        "question": "The weather is getting _____ (cold) every day.",
+                        "options": [
+                            "colder",
+                            "cold",
+                            "coldest"
+                        ],
+                        "correct": "colder"
+                    },
+                    {
+                        "question": "This is _____ (expensive) restaurant in town.",
+                        "options": [
+                            "the expensivest",
+                            "the most expensive",
+                            "more expensive"
+                        ],
+                        "correct": "the most expensive"
+                    },
+                    {
+                        "question": "She works _____ (hard) than anyone in the office.",
+                        "options": [
+                            "hard",
+                            "harder",
+                            "hardest"
+                        ],
+                        "correct": "harder"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "title": "Modal Verbs (Can, Could, Should, Must)",
+            "category": "Modals",
+            "level": "Intermediate",
+            "duration": "30 dəqiqə",
+            "points": 75,
+            "content": {
+                "description": "Modal fel'lər əsas fellərə qoşularaq imkan, icazə, məcburiyyət, tövsiyə və ehtimal kimi mənalar əlavə edir. Bu fel'lər şəxsə və ya sayına görə dəyişmir və həmişə əsas fel'in yalın forması ilə işlənir. Hər bir modal fel'in özünəməxsus mənası və istifadə qaydaları var. Məsələn, 'can' bacarıq və ya imkan ifadə edir, 'should' tövsiyə ifadə edir, 'must' isə məcburiyyət bildirir.",
+                "formula": "Subject + Modal Verb + Base Form of Verb + Object",
+                "examples": [
+                    "I can speak three languages.",
+                    "You should see a doctor.",
+                    "He must finish his homework.",
+                    "We could go to the cinema tonight.",
+                    "She can't swim very well.",
+                    "They should arrive by 8 PM.",
+                    "You must not smoke here.",
+                    "Could you help me with this?"
+                ],
+                "rules": [
+                    "Modal fel'lər şəxsə görə dəyişmir: I can, he can, they can",
+                    "Əsas fel həmişə yalın formasında olur (to-suz)",
+                    "Mənfi cümlələrdə 'not' modal feldən sonra gəlir",
+                    "Sual cümlələrində modal fel başlanğıcda gəlir",
+                    "Can: bacarıq, imkan, icazə",
+                    "Could: keçmişdə bacarıq, nəzakətli sorğu, ehtimal",
+                    "Should: tövsiyə, məsləhət, gözlənti",
+                    "Must: məcburiyyət, zərurət, qəti tövsiyə"
+                ],
+                "commonMistakes": [
+                    "❌ I can to swim → ✅ I can swim",
+                    "❌ He musts go → ✅ He must go",
+                    "❌ She should to study → ✅ She should study",
+                    "❌ Can you speaks English? → ✅ Can you speak English?",
+                    "❌ They must not to be late → ✅ They must not be late"
+                ],
+                "practice": [
+                    {
+                        "question": "I _____ speak French fluently.",
+                        "options": [
+                            "can",
+                            "am can",
+                            "cans"
+                        ],
+                        "correct": "can"
+                    },
+                    {
+                        "question": "_____ you help me with this box?",
+                        "options": [
+                            "Should",
+                            "Can",
+                            "Must"
+                        ],
+                        "correct": "Can"
+                    },
+                    {
+                        "question": "You _____ see a doctor if you feel sick.",
+                        "options": [
+                            "can",
+                            "must",
+                            "should"
+                        ],
+                        "correct": "should"
+                    },
+                    {
+                        "question": "We _____ be at the airport by 6 AM.",
+                        "options": [
+                            "must",
+                            "can",
+                            "should"
+                        ],
+                        "correct": "must"
+                    },
+                    {
+                        "question": "_____ I borrow your pen?",
+                        "options": [
+                            "Must",
+                            "Should",
+                            "Could"
+                        ],
+                        "correct": "Could"
+                    },
+                    {
+                        "question": "She _____ swim when she was five.",
+                        "options": [
+                            "can",
+                            "could",
+                            "should"
+                        ],
+                        "correct": "could"
+                    },
+                    {
+                        "question": "You _____ not park here - it's illegal.",
+                        "options": [
+                            "can",
+                            "should",
+                            "must"
+                        ],
+                        "correct": "must"
+                    },
+                    {
+                        "question": "_____ we go to the beach tomorrow?",
+                        "options": [
+                            "Can",
+                            "Should",
+                            "Could"
+                        ],
+                        "correct": "Could"
+                    },
+                    {
+                        "question": "He _____ play the piano very well.",
+                        "options": [
+                            "cans",
+                            "can",
+                            "is can"
+                        ],
+                        "correct": "can"
+                    },
+                    {
+                        "question": "I think you _____ apologize to her.",
+                        "options": [
+                            "must",
+                            "should",
+                            "can"
+                        ],
+                        "correct": "should"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "title": "Conditional Sentences (Type 0 & 1)",
+            "category": "Conditionals",
+            "level": "Intermediate",
+            "duration": "25 dəqiqə",
+            "points": 70,
+            "content": {
+                "description": "Conditional cümlələr şərt və nəticə arasındakı əlaqəni ifadə edir. Type 0 şərt cümlələri ümumi həqiqətləri və elmi faktları ifadə edir. Type 1 şərt cümlələri isə real və mümkün olan gələcək vəziyyətləri ifadə edir. Bu cümlələr 'if' (əgər) sözü ilə başlayaraq şərti, sonra isə nəticəni göstərir. Məsələn, 'If it rains, we will stay at home' cümləsində yağış yağması şərti, evdə qalmaq isə nəticədir.",
+                "formula": "Type 0: If + Present Simple, Present Simple | Type 1: If + Present Simple, will + base verb",
+                "examples": [
+                    "If you heat ice, it melts. (Type 0)",
+                    "If water reaches 100°C, it boils. (Type 0)",
+                    "If I have time, I will visit you. (Type 1)",
+                    "If it rains tomorrow, we will cancel the picnic. (Type 1)",
+                    "If you don't hurry, you will miss the bus. (Type 1)",
+                    "If you mix blue and yellow, you get green. (Type 0)",
+                    "If she studies hard, she will pass the exam. (Type 1)",
+                    "If you press this button, the light turns on. (Type 0)"
+                ],
+                "rules": [
+                    "Type 0: Ümumi həqiqətlər və elmi faktlar üçün istifadə olunur",
+                    "Type 1: Real və mümkün gələcək şərtlər üçün istifadə olunur",
+                    "'If' hissəsi şərti ifadə edir",
+                    "Əsas hissə nəticəni ifadə edir",
+                    "Cümlə 'if' ilə və ya nəticə ilə başlaya bilər",
+                    "Cümlə nəticə ilə başlayanda vergül istifadə olunmur",
+                    "Type 1-də nəticə hissəsində 'will', 'can', 'may' istifadə oluna bilər",
+                    "Type 0-də hər iki hissədə Present Simple istifadə olunur"
+                ],
+                "commonMistakes": [
+                    "❌ If I will have time, I visit you → ✅ If I have time, I will visit you",
+                    "❌ If you heat water, it will boil → ✅ If you heat water, it boils",
+                    "❌ If she will come, I will be happy → ✅ If she comes, I will be happy",
+                    "❌ If you don't study, you fail → ✅ If you don't study, you will fail",
+                    "❌ If ice melts, it became water → ✅ If ice melts, it becomes water"
+                ],
+                "practice": [
+                    {
+                        "question": "If you _____ (mix) red and blue, you get purple.",
+                        "options": [
+                            "mix",
+                            "will mix",
+                            "mixed"
+                        ],
+                        "correct": "mix"
+                    },
+                    {
+                        "question": "If it _____ (rain), we _____ (stay) at home.",
+                        "options": [
+                            "rains/will stay",
+                            "will rain/stay",
+                            "rain/stay"
+                        ],
+                        "correct": "rains/will stay"
+                    },
+                    {
+                        "question": "If you _____ (not/eat), you get hungry.",
+                        "options": [
+                            "don't eat",
+                            "won't eat",
+                            "didn't eat"
+                        ],
+                        "correct": "don't eat"
+                    },
+                    {
+                        "question": "If she _____ (study) hard, she _____ (pass) the exam.",
+                        "options": [
+                            "studies/will pass",
+                            "will study/passes",
+                            "study/will pass"
+                        ],
+                        "correct": "studies/will pass"
+                    },
+                    {
+                        "question": "If water _____ (freeze), it _____ (turn) to ice.",
+                        "options": [
+                            "freezes/turns",
+                            "will freeze/turns",
+                            "freezes/will turn"
+                        ],
+                        "correct": "freezes/turns"
+                    },
+                    {
+                        "question": "If I _____ (see) him, I _____ (tell) him the news.",
+                        "options": [
+                            "see/will tell",
+                            "will see/tell",
+                            "see/tell"
+                        ],
+                        "correct": "see/will tell"
+                    },
+                    {
+                        "question": "If you _____ (heat) metal, it _____ (expand).",
+                        "options": [
+                            "heat/expands",
+                            "will heat/expands",
+                            "heat/will expand"
+                        ],
+                        "correct": "heat/expands"
+                    },
+                    {
+                        "question": "If they _____ (not/leave) now, they _____ (miss) the train.",
+                        "options": [
+                            "don't leave/will miss",
+                            "won't leave/miss",
+                            "didn't leave/will miss"
+                        ],
+                        "correct": "don't leave/will miss"
+                    },
+                    {
+                        "question": "If you _____ (press) this button, the machine _____ (start).",
+                        "options": [
+                            "press/starts",
+                            "will press/starts",
+                            "press/will start"
+                        ],
+                        "correct": "press/starts"
+                    },
+                    {
+                        "question": "If I _____ (have) enough money, I _____ (buy) a new car.",
+                        "options": [
+                            "have/will buy",
+                            "will have/buy",
+                            "have/buy"
+                        ],
+                        "correct": "have/will buy"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "title": "Passive Voice (Present & Past)",
+            "category": "Voice",
+            "level": "Advanced",
+            "duration": "30 dəqiqə",
+            "points": 80,
+            "content": {
+                "description": "Passive voice (edilən səs) hərəkəti edənin deyil, hərəkətin qəbul edəninin vurğulandığı cümlə quruluşudur. Bu quruluşda subyekt hərəkəti deyil, hərəkəti qəbul edəndir. Passive voice obyektin, prosesin və ya nəticənin daha vacib olduğu hallarda istifadə olunur. Məsələn, 'The book was written by Shakespeare' cümləsində kitabın kim tərəfindən yazıldığı deyil, onun yazılması faktı vurğulanır. Bu quruluş texniki yazılarda, elmi məqalələrdə və xəbər dilində tez-tez istifadə olunur.",
+                "formula": "Present: Subject + am/is/are + past participle + (by agent) | Past: Subject + was/were + past participle + (by agent)",
+                "examples": [
+                    "The car is washed every week. (Present)",
+                    "English is spoken all over the world. (Present)",
+                    "The house was built in 1990. (Past)",
+                    "The window was broken by the children. (Past)",
+                    "Coffee is grown in Brazil. (Present)",
+                    "The letter was sent yesterday. (Past)",
+                    "This computer is made in China. (Present)",
+                    "The Mona Lisa was painted by Leonardo da Vinci. (Past)"
+                ],
+                "rules": [
+                    "Active cümlənin obyekti passive cümlənin subyekti olur",
+                    "Hərəkəti edən 'by' ilə ifadə oluna bilər, lakin həmişə lazım deyil",
+                    "Present passive: am/is/are + past participle",
+                    "Past passive: was/were + past participle",
+                    "Fel'in 3-cü forması (past participle) istifadə olunur",
+                    "Hərəkəti edən məlum deyilsə və ya vacib deyilsə, 'by' hissəsi buraxıla bilər",
+                    "Məqsəd və ya prosesi vurğulamaq üçün istifadə olunur",
+                    "Texniki təsvirlərdə və formal yazılarda üstünlük verilir"
+                ],
+                "commonMistakes": [
+                    "❌ The car is wash every day → ✅ The car is washed every day",
+                    "❌ English is speak here → ✅ English is spoken here",
+                    "❌ The book was wrote by him → ✅ The book was written by him",
+                    "❌ The house is build last year → ✅ The house was built last year",
+                    "❌ This song is sing by many people → ✅ This song is sung by many people"
+                ],
+                "practice": [
+                    {
+                        "question": "English _____ (speak) in many countries.",
+                        "options": [
+                            "is spoken",
+                            "speaks",
+                            "is speak"
+                        ],
+                        "correct": "is spoken"
+                    },
+                    {
+                        "question": "The bridge _____ (build) in 2001.",
+                        "options": [
+                            "was built",
+                            "built",
+                            "is built"
+                        ],
+                        "correct": "was built"
+                    },
+                    {
+                        "question": "Letters _____ (deliver) every day.",
+                        "options": [
+                            "are delivered",
+                            "deliver",
+                            "delivered"
+                        ],
+                        "correct": "are delivered"
+                    },
+                    {
+                        "question": "The window _____ (break) yesterday.",
+                        "options": [
+                            "was broken",
+                            "broke",
+                            "is broken"
+                        ],
+                        "correct": "was broken"
+                    },
+                    {
+                        "question": "Coffee _____ (grow) in tropical countries.",
+                        "options": [
+                            "grows",
+                            "is grown",
+                            "grew"
+                        ],
+                        "correct": "is grown"
+                    },
+                    {
+                        "question": "This book _____ (write) by a famous author.",
+                        "options": [
+                            "wrote",
+                            "was written",
+                            "is wrote"
+                        ],
+                        "correct": "was written"
+                    },
+                    {
+                        "question": "The car _____ (wash) every Saturday.",
+                        "options": [
+                            "washes",
+                            "is washed",
+                            "washed"
+                        ],
+                        "correct": "is washed"
+                    },
+                    {
+                        "question": "The film _____ (direct) by Steven Spielberg.",
+                        "options": [
+                            "directed",
+                            "was directed",
+                            "is direct"
+                        ],
+                        "correct": "was directed"
+                    },
+                    {
+                        "question": "Bread _____ (make) from flour.",
+                        "options": [
+                            "makes",
+                            "is made",
+                            "made"
+                        ],
+                        "correct": "is made"
+                    },
+                    {
+                        "question": "The museum _____ (visit) by thousands of people every year.",
+                        "options": [
+                            "visits",
+                            "is visited",
+                            "visited"
+                        ],
+                        "correct": "is visited"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "title": "Phrasal Verbs in Daily Life",
+            "category": "Vocabulary & Verbs",
+            "level": "Intermediate",
+            "duration": "25 dəqiqə",
+            "points": 75,
+            "content": {
+                "description": "Phrasal Verbs (Qoşma fel'lər) əsas fel + söz (preposition/adverb) birləşməsindən ibarət olub, çox vaxt mənası ayrı-ayrı sözlərin mənasından tamamilə fərqli olur. Gündəlik danışıq dilində, seriallarda və mahnılarda olduqca tez-tez işlədilir. Məsələn, 'give up' (təslim olmaq) ifadəsində 'give' (vermək) felinin ilkin mənası ilə heç bir əlaqəsi yoxdur. Bu dərs ən çox işlənən və qarışıqlıq yaradan phrasal verb'ları öyrənməyə kömək edəcək.",
+                "formula": "Verb + Particle (Preposition/Adverb) = New Meaning",
+                "examples": [
+                    "I need to **cut down on** coffee. (Azaltmaq)",
+                    "Can you **look after** my cat? (Qulluq etmək, nəzarət etmək)",
+                    "Let's **work out** at the gym. (İdman etmək)",
+                    "He **turned down** the job offer. (Rədd etmək)",
+                    "We should **catch up** soon. (Xəbərləşmək, görüşüb hal-əhval soruşmaq)",
+                    "The meeting was **called off**. (Ləğv etmək)",
+                    "She **gets along with** everyone. (Yaxşı anlaşmaq)",
+                    "Please **fill out** this form. (Doldurmaq)"
+                ],
+                "rules": [
+                    "**Ayrıla bilən (Separable)**: Obyekt zamandırsa (it, them) fel ilə sözün arasına girə bilər. 'Turn the lights **off**' və ya 'Turn **off** the lights'.",
+                    "**Ayrıla bilməyən (Inseparable)**: Obyekt heç vaxt aralarına girə bilməz. 'I **ran into** an old friend' (təsadüfən qarşılaşmaq).",
+                    "**Hərəkət (Literal)**: Bəziləri həqiqi mənada da işlənir. 'He **ran up** the stairs'.",
+                    "**Məcazi (Idiomatic)**: Ən çox bu qrup işlənir və məcazi məna daşıyır. 'She **broke down** crying' (ağlamağa başlamaq).",
+                    "Kontekst mənanı müəyyən edir. Eyni phrasal verb fərqli cümlələrdə fərqli mənalara gələ bilər."
+                ],
+                "commonMistakes": [
+                    "❌ I will pick up you at 8. → ✅ I will pick **you up** at 8. (Ayrıla bilən)",
+                    "❌ We look the word up in the dictionary. → ✅ We **look up** the word. (Ayrıla bilən, lakin obyekt uzunsa sona qoyulur)",
+                    "❌ She takes after her mother. (DOĞRU - Ayrıla bilməz, dəyişiklik yoxdur)",
+                    "❌ I need to give up smoking. (DOĞRU)"
+                ],
+                "practice": [
+                    {
+                        "question": "I need to _____ (axtarmaq) the meaning of this word.",
+                        "options": [
+                            "look it up",
+                            "look up it",
+                            "look after it"
+                        ],
+                        "correct": "look it up"
+                    },
+                    {
+                        "question": "Our flight was _____ (ləğv etmək) due to bad weather.",
+                        "options": [
+                            "called off",
+                            "called out",
+                            "called up"
+                        ],
+                        "correct": "called off"
+                    },
+                    {
+                        "question": "Could you _____ (söndürmək) the TV?",
+                        "options": [
+                            "turn off it",
+                            "turn it off",
+                            "turn down it"
+                        ],
+                        "correct": "turn it off"
+                    },
+                    {
+                        "question": "He _____ (bərpa etmək, sağalmaq) from his illness quickly.",
+                        "options": [
+                            "got over",
+                            "got up",
+                            "got out"
+                        ],
+                        "correct": "got over"
+                    },
+                    {
+                        "question": "Let's _____ (yoxlamaq, araşdırmaq) the time of the movie.",
+                        "options": [
+                            "find out",
+                            "find up",
+                            "look out"
+                        ],
+                        "correct": "find out"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "title": "Slang & Informal Expressions for Social Media",
+            "category": "Speaking & Modern English",
+            "level": "Intermediate",
+            "duration": "20 dəqiqə",
+            "points": 65,
+            "content": {
+                "description": "Bu dərs rəsmi olmayan danışıq dilində, sosial mediada (Instagram, TikTok, YouTube) və dostlar arasında işlənən ən populyar ifadələrə və slanq sözlərə həsr olunub. Formal yazıda və iş mühitində istifadə olunmasa da, real ingilis dilini başa düşmək və təbii söhbət etmək üçün bu bilik çox vacibdir.",
+                "formula": "Modern Context + Short Form / Metaphor = Slang",
+                "examples": [
+                    "That movie was **lit**! (Çox yaxşı, əla)",
+                    "I'm **down** for pizza. (Razıyam, hazıram)",
+                    "Don't **ghost** me again! (Cavabsız qoymaq, yox kimi olmaq)",
+                    "He's my **ride or die**. (Hər şəraitdə dəstək olan ən yaxın dost)",
+                    "I need to **chill** this weekend. (İstirahət etmək, rahatlamaq)",
+                    "She **slayed** that presentation! (Mükəmməl ifa etmək, uğur qazanmaq)",
+                    "That's **sus**. (Şübhəli)",
+                    "I'm **broke** until payday. (Pulsuz)",
+                    "Let's **bounce**! (Getmək, yola düşmək)",
+                    "It's not that **deep**. (O qədər də ciddi/ciddi məsələ deyil)"
+                ],
+                "rules": [
+                    "**Kontekst hər şeydir**: Eyni söz fərqli mənalarda işlənə bilər (məs: 'sick' - xəstə VƏ ya 'möhtəşəm').",
+                    "**Formal yox, informal bəli**: Bu sözləri universitet dissertasiyasında və ya iş e-poçtunda işlətməyin.",
+                    "**Nəsillər arasında fərqlənir**: Bəzi slanq gənclər, bəziləri isə hamı tərəfindən işlənir.",
+                    "**Tez köhnəlir**: Slang çox sürətlə dəyişir. 5 il əvvəlki slanq indi istifadədən çıxa bilər.",
+                    "**Eşitmək, təkrarlamaq**: Öyrənməyin ən yaxşı yolu film, serial, podcast dinləməkdir."
+                ],
+                "commonMistakes": [
+                    "❌ (İş görüşündə) 'Your company is lit!' → ✅ 'Your company is impressive.'",
+                    "❌ 'I am ghost.' → ✅ 'He ghosted me.' (Fel kimi işlənir)",
+                    "❌ 'This food is slay.' → ✅ 'This food slaps!' (Yaxşıdır) Və ya 'She slayed the performance.'"
+                ],
+                "practice": [
+                    {
+                        "question": "If someone says 'I'm gonna dip', what do they mean?",
+                        "options": [
+                            "They are going to swim.",
+                            "They are going to leave.",
+                            "They are going to eat a sauce."
+                        ],
+                        "correct": "They are going to leave."
+                    },
+                    {
+                        "question": "What does 'cap' mean in 'No cap, that's true'?",
+                        "options": [
+                            "A hat",
+                            "A limit",
+                            "A lie"
+                        ],
+                        "correct": "A lie"
+                    },
+                    {
+                        "question": "Your friend texts 'BRB'. What should you do?",
+                        "options": [
+                            "Call them back immediately.",
+                            "Wait for them to return/respond.",
+                            "Go to their house."
+                        ],
+                        "correct": "Wait for them to return/respond."
+                    },
+                    {
+                        "question": "What is the best response to 'Wanna hang out?'",
+                        "options": [
+                            "Yes, I'm down!",
+                            "Yes, I'm up!",
+                            "Yes, I'm high!"
+                        ],
+                        "correct": "Yes, I'm down!"
+                    },
+                    {
+                        "question": "If a party was 'low-key amazing', it was:",
+                        "options": [
+                            "Terrible and boring.",
+                            "Quietly but surprisingly great.",
+                            "Very loud and obvious."
+                        ],
+                        "correct": "Quietly but surprisingly great."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "title": "How to Agree & Disagree Politely",
+            "category": "Speaking & Communication",
+            "level": "Intermediate",
+            "duration": "20 dəqiqə",
+            "points": 70,
+            "content": {
+                "description": "Təkcə 'I agree' və 'I disagree' demək kifayət deyil! İngilis dilində, xüsusən də iş və akademik mühitdə, fikirlərimizi nəzakətlə və meyarlı şəkildə ifadə etmək bacarığı çox vacibdir. Bu dərs fikir uyğunluğu və uyğunsuzluğunu müxtəlif səviyyələrdə (tam, qismən, şərti) ifadə etməyin yollarını, həmçinin başqasının fikrini təkzib etmədən öz fikrinizi söyləməyin strategiyalarını öyrədir.",
+                "formula": "Softener + Your Opinion + Reason/Alternative (Optional)",
+                "examples": [
+                    "**Tam Razılıq**: 'I couldn't agree more.', 'That's exactly how I see it.', 'You're absolutely right.'",
+                    "**Qismən Razılıq**: 'I see your point, but...', 'That's true, however...', 'I agree with you up to a point.'",
+                    "**Nəzakətlə Razı Olmamaq**: 'I see what you're saying, but I have a slightly different view.', 'I'm not sure I entirely agree.', 'That's one way to look at it, although...'",
+                    "**Təklifə Qarşı Çıxmaq**: 'I'm not convinced that's the best approach.', 'Have we considered... as an alternative?', 'I'm a bit concerned about...'",
+                    "**Daha güclü razı olmamaq (rəsmiləşdikdə)**: 'I'm afraid I have to disagree.', 'I must respectfully disagree.', 'The evidence suggests otherwise.'"
+                ],
+                "rules": [
+                    "**Yumşaq Başlanğıc (Softeners) istifadə edin**: 'Actually,...', 'I see your point, but...', 'That's interesting, however...'",
+                    "**Fikri, şəxsi deyil**: 'That idea might not work' əvəzinə 'You are wrong' deməyin.",
+                    "**Səbəb göstərin**: 'I disagree because the data shows...'",
+                    "**Alternativ təklif edin**: Rədd etdikdən sonra həll yolu təklif etmək qurucu olur.",
+                    "**Dinlədiyinizi göstərin**: 'If I understand you correctly, you're saying...'"
+                ],
+                "commonMistakes": [
+                    "❌ 'You're wrong.' → ✅ 'I see it a bit differently.'",
+                    "❌ 'No, that's a bad idea.' → ✅ 'I'm not sure that's the most effective approach. What about...?'",
+                    "❌ 'I disagree.' (sakit) → ✅ 'I have to disagree on this one, and here's why...'",
+                    "❌ (Heç nə deməmək, ancaq üz ifadəsi ilə göstərmək) → ✅ 'I have some reservations about that.'"
+                ],
+                "practice": [
+                    {
+                        "question": "Your colleague says: 'We should cancel the project.' You think it's too early. Your best response:",
+                        "options": [
+                            "That's a terrible idea.",
+                            "I understand your concern, but maybe we should review the progress first before making a decision.",
+                            "No, we shouldn't."
+                        ],
+                        "correct": "I understand your concern, but maybe we should review the progress first before making a decision."
+                    },
+                    {
+                        "question": "In a meeting, someone says something you completely agree with. A strong way to show support is:",
+                        "options": [
+                            "Me too.",
+                            "I couldn't agree with you more. You've hit the nail on the head.",
+                            "Yes."
+                        ],
+                        "correct": "I couldn't agree with you more. You've hit the nail on the head."
+                    },
+                    {
+                        "question": "Which phrase is the SOFTEST way to disagree?",
+                        "options": [
+                            "You're mistaken.",
+                            "I'm afraid I have a different perspective.",
+                            "That's not right at all."
+                        ],
+                        "correct": "I'm afraid I have a different perspective."
+                    },
+                    {
+                        "question": "Your friend suggests a restaurant you dislike. You say: '_____ I wasn't impressed with the food there last time. How about trying the new Italian place?'",
+                        "options": [
+                            "No way! That place is awful.",
+                            "I'm not sure that's the best choice.",
+                            "That's a stupid suggestion."
+                        ],
+                        "correct": "I'm not sure that's the best choice."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "title": "The Language of AI & Technology",
+            "category": "Vocabulary & Modern English",
+            "level": "Upper-Intermediate",
+            "duration": "30 dəqiqə",
+            "points": 85,
+            "content": {
+                "description": "Texnologiya və süni intellekt dünyamızın mərkəzindədir. Bu dərs, xəbərlərdə, iş təkliflərində və gündəlik həyatda tez-tez rast gəlinən ən aktual texnoloji terminləri və ifadələri anlamağa kömək edir. Bu, təkcə lüğətinizi genişləndirmək üçün deyil, həm də müasir dünyanı anlamaq üçün vacibdir.",
+                "formula": "Tech Concept + Common Verb/Application = Useful Terminology",
+                "examples": [
+                    "**The app keeps crashing. I need to restart my phone.** (Qəfil dayanmaq, sıxılmaq)",
+                    "**Make sure your software is up to date.** (Ən son versiyada)",
+                    "**The video went viral on TikTok.** (Virus kimi yayılmaq, çox populyar olmaq)",
+                    "**I'll ping you the details via email.** (Göndərmək, mesaj atmaq)",
+                    "**We need to leverage AI to analyze this data.** (Leverage: bacarıqla istifadə etmək, gücə çevirmək)",
+                    "**The interface is very user-friendly.** (İstifadəçi üçün asan və anlaşıqlı)",
+                    "**The system is buggy; we need to debug it.** (Buggy: səhvlərlə dolu / Debug: səhvləri aradan qaldırmaq)",
+                    "**The file is too large, you need to compress it.** (Sıxmaq, ölçüsünü kiçiltmək)",
+                    "**The website uses cookies to personalize your experience.** (Kuki faylları)",
+                    "**That's a groundbreaking innovation.** (Dönüşüm yaradan, inqilabi)"
+                ],
+                "rules": [
+                    "**Qısaltmalar (Acronyms)**: AI (Artificial Intelligence), UI/UX (User Interface/User Experience), IoT (Internet of Things).",
+                    "**Fel kimi işlənən isimlər**: 'To google something', 'To zoom someone', 'To photoshop an image'.",
+                    "**Metaforalar**: 'Cloud', 'Virus', 'Stream' - hamısı texnologiyada yeni mənalar qazanıb.",
+                    "**Anglicisms**: Bu sözlər demək olar ki, bütün dillərə daxil olub (download, chat, blog).",
+                    "**Formal vs Informal**: 'Algorithm' (formal) vs 'algo' (informal, slanq)."
+                ],
+                "commonMistakes": [
+                    "❌ 'I will internet you the file.' → ✅ 'I will email you the file.' / 'I will send it to you online.'",
+                    "❌ 'My computer has virus.' → ✅ 'My computer has a virus.'",
+                    "❌ 'I can't login the website.' → ✅ 'I can't log in to the website.' ('Log in' fel birləşməsidir)"
+                ],
+                "practice": [
+                    {
+                        "question": "What does it mean if a device is 'plug-and-play'?",
+                        "options": [
+                            "It requires expert installation.",
+                            "It's ready to use immediately with minimal setup.",
+                            "You have to play games on it to make it work."
+                        ],
+                        "correct": "It's ready to use immediately with minimal setup."
+                    },
+                    {
+                        "question": "If a company talks about its 'SEO', what are they trying to improve?",
+                        "options": [
+                            "Their search engine ranking (like on Google).",
+                            "Their employee satisfaction.",
+                            "Their software encryption."
+                        ],
+                        "correct": "Their search engine ranking (like on Google)."
+                    },
+                    {
+                        "question": "What is 'two-factor authentication' (2FA) for?",
+                        "options": [
+                            "Making your device twice as fast.",
+                            "Adding an extra layer of security to your accounts.",
+                            "Using two different apps at the same time."
+                        ],
+                        "correct": "Adding an extra layer of security to your accounts."
+                    },
+                    {
+                        "question": "If data is 'encrypted', it is:",
+                        "options": [
+                            "Publicly available for anyone to read.",
+                            "Scrambled into a code to protect it.",
+                            "Deleted permanently."
+                        ],
+                        "correct": "Scrambled into a code to protect it."
+                    },
+                    {
+                        "question": "To 'browse' the internet means to:",
+                        "options": [
+                            "Look through websites casually.",
+                            "Buy things online very quickly.",
+                            "Fix errors on a webpage."
+                        ],
+                        "correct": "Look through websites casually."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "title": "Emoji Language & Digital Communication",
+            "category": "Writing & Modern English",
+            "level": "Beginner",
+            "duration": "15 dəqiqə",
+            "points": 45,
+            "content": {
+                "description": "Emojilər müasir rəqəmsal ünsiyyətin əlifbasına çevrilib. Bu dərs emojilərin ingilis dilində necə düzgün istifadə edilməsi, onların cümlələrə necə məna və emosiya əlavə etməsi, həmçinin yayılmış anlaşılmazlıqlar haqqında öyrədir. Emojilər sözlərin yerini tutmur, onları tamamlayır!",
+                "formula": "Text + Appropriate Emoji = Enhanced Digital Communication",
+                "examples": [
+                    "**See you tomorrow! 👋** (Sağollaşma)",
+                    "**That's amazing! 😍** (Heyranlıq)",
+                    "**I'm so tired today 😴** (Yorğunluq)",
+                    "**Just kidding! 😂** (Zarafat etmək)",
+                    "**Good luck on your exam! 🍀** (Uğurlar)",
+                    "**Important meeting at 3 PM ⚠️** (Xəbərdarlıq)",
+                    "**The food was delicious! 😋** (Dadlı)",
+                    "**Can't wait to see you! 🤗** (Həyəcan)"
+                ],
+                "rules": [
+                    "**Kontekst uyğunluğu**: Emoji mesajın mənasını gücləndirməlidir, ziddiyyət yaratmamalıdır",
+                    "**Sayı məsələsi**: Həddindən artıq emoji istifadəsi peşəkar görünmür",
+                    "**Yaş və mədəniyyət**: Fərqli emojilər fərqli yaş qruplarında fərqli başa düşülə bilər",
+                    "**Formallıq**: İş yazışmalarında emoji istifadəsi məhdud olmalıdır",
+                    "**Universal emojilər**: 😂, ❤️, 👍 ən çox başa düşülən emojilərdir"
+                ],
+                "commonMistakes": [
+                    "❌ 'The project failed. 😂' → ✅ 'The project failed. 😞'",
+                    "❌ 'My grandmother passed away. 🎉' → ✅ 'My grandmother passed away. 😔'",
+                    "❌ 'Serious business proposal 📈🤪🍕🎮💯' → ✅ 'Serious business proposal 📈'",
+                    "❌ 'I'm angry with you! 😘' → ✅ 'I'm angry with you! 😠'"
+                ],
+                "practice": [
+                    {
+                        "question": "Which emoji is most appropriate for expressing sympathy?",
+                        "options": [
+                            "🤣",
+                            "😔",
+                            "🥳"
+                        ],
+                        "correct": "😔"
+                    },
+                    {
+                        "question": "Your friend texts: 'Got the job! 🎉'. What does the emoji mean?",
+                        "options": [
+                            "Confusion",
+                            "Celebration",
+                            "Sadness"
+                        ],
+                        "correct": "Celebration"
+                    },
+                    {
+                        "question": "Which emoji combination fits: 'Working late again...'",
+                        "options": [
+                            "😎🍹",
+                            "😴💼",
+                            "🤩🎊"
+                        ],
+                        "correct": "😴💼"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "title": "Movie & Series Dialogue Analysis",
+            "category": "Listening & Speaking",
+            "level": "Intermediate",
+            "duration": "30 dəqiqə",
+            "points": 75,
+            "content": {
+                "description": "Film və serial dialoqları real ingilis dilini öyrənmək üçün ən yaxşı materialdır. Bu dərs məşhur filmlərdən və seriallardan nümunələr əsasında təbii danışıq dilini, ifadələri, qeyri-rəsmi qrammatikanı və mədəni referansları analiz edir. 'Friends', 'Stranger Things', 'Harry Potter' kimi populyar əsərlərdən parçalar işləyəcəyik.",
+                "formula": "Context + Character + Situation = Natural Dialogue",
+                "examples": [
+                    "**'I'll be there for you'** (Friends - dəstək ifadəsi)",
+                    "**'You shall not pass!'** (Lord of the Rings - qəti ifadə)",
+                    "**'May the Force be with you'** (Star Wars - ümid ifadəsi)",
+                    "**'I'm king of the world!'** (Titanic - həyəcan ifadəsi)",
+                    "**'Winter is coming'** (Game of Thrones - xəbərdarlıq)",
+                    "**'Just keep swimming'** (Finding Nemo - ruhlandırıcı ifadə)",
+                    "**'You had me at hello'** (Jerry Maguire - romantik ifadə)"
+                ],
+                "rules": [
+                    "**Qeyri-rəsmi qrammatika**: 'Gonna' (going to), 'wanna' (want to), 'gimme' (give me)",
+                    "**Kontraksiyalar**: Don't, can't, won't, shouldn't've",
+                    "**Söz sırası dəyişikliyi**: 'Crazy good' əvəzinə 'very good'",
+                    "**İnterjektiyalar**: Wow!, Oops!, Ugh!, Hmm",
+                    "**Dialekt və aksentlər**: Britaniya vs Amerika ifadə fərqləri"
+                ],
+                "commonMistakes": [
+                    "❌ Formal: 'I am going to go to the store.' → ✅ Informal: 'I'm gonna go to the store.'",
+                    "❌ 'What is your problem?' (aggressive) → ✅ 'What's up?' (friendly)",
+                    "❌ 'I desire a cup of coffee.' → ✅ 'I could really use a coffee.'"
+                ],
+                "practice": [
+                    {
+                        "question": "In 'Friends', what does 'How you doin'?' usually imply?",
+                        "options": [
+                            "A serious health inquiry",
+                            "A flirty pickup line",
+                            "A business greeting"
+                        ],
+                        "correct": "A flirty pickup line"
+                    },
+                    {
+                        "question": "What does 'Yer a wizard, Harry' teach us about pronunciation?",
+                        "options": [
+                            "British accent features",
+                            "Formal speech patterns",
+                            "Technical vocabulary"
+                        ],
+                        "correct": "British accent features"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "title": "Business English for Startups",
+            "category": "Professional English",
+            "level": "Upper-Intermediate",
+            "duration": "35 dəqiqə",
+            "points": 90,
+            "content": {
+                "description": "Startup ekosisteminin özünəməxsus dili var. Bu dərs VC-lərlə (Venture Capital) danışıq, pitch etmək, MVP (Minimum Viable Product) haqqında danışmaq, growth hacking terminlərini başa düşmək kimi bacarıqları öyrədir. Müasir biznes dünyasında uğur qazanmaq üçün vacib dil vasitələri.",
+                "formula": "Business Goal + Startup Terminology = Effective Pitch",
+                "examples": [
+                    "**'We need to pivot our strategy'** (istiqaməti dəyişmək)",
+                    "**'Our runway is 6 months'** (qalan pul müddəti)",
+                    "**'Let's synergize our efforts'** (əlbir işləmək)",
+                    "**'We're bootstrapping the project'** (xarici investisiya olmadan)",
+                    "**'The UX needs optimization'** (İstifadəçi təcrübəsi)",
+                    "**'We're seeking Series A funding'** (investisiya mərhələsi)",
+                    "**'Our CAC is too high'** (Müştəri əldə etmə xərci)"
+                ],
+                "rules": [
+                    "**Akronimlər**: KPI, ROI, B2B, B2C, SaaS",
+                    "**Məcazi dil**: 'Unicorn', 'Exit strategy', 'Burn rate'",
+                    "**Qısa və dəqiq**: 'Let's circle back' (geri qayıtmaq), 'Touch base' (əlaqə saxlamaq)",
+                    "**Rəqəmlərlə danışmaq**: 'We grew 300% MoM' (Month over Month)",
+                    "**İnvestitor dili**: 'Traction', 'Market fit', 'Scalability'"
+                ],
+                "commonMistakes": [
+                    "❌ 'We want money' → ✅ 'We're seeking investment to scale our proven concept'",
+                    "❌ 'Our product is good' → ✅ 'Our product addresses a clear market need with measurable traction'",
+                    "❌ 'We have no competitors' → ✅ 'We have a unique value proposition in a competitive landscape'"
+                ],
+                "practice": [
+                    {
+                        "question": "What does 'pivot' mean in startup context?",
+                        "options": [
+                            "To dance at a party",
+                            "To fundamentally change business strategy",
+                            "To hire new employees"
+                        ],
+                        "correct": "To fundamentally change business strategy"
+                    },
+                    {
+                        "question": "If someone says 'We need to disrupt the market', they want to:",
+                        "options": [
+                            "Follow existing leaders",
+                            "Create revolutionary change",
+                            "Avoid competition"
+                        ],
+                        "correct": "Create revolutionary change"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "title": "English for Gamers & Esports",
+            "category": "Vocabulary & Modern English",
+            "level": "Intermediate",
+            "duration": "25 dəqiqə",
+            "points": 70,
+            "content": {
+                "description": "Geymerlərin və e-idman dünyasının öz lüğəti var. Bu dərs multiplayer oyunlarda, strimlərdə (Twitch) və e-idman yarışlarında işlənən terminləri, ifadələri və slanqı öyrədir. Fortnite, League of Legends, Valorant kimi populyar oyunlardan nümunələr.",
+                "formula": "Game Situation + Gamer Slang = In-Game Communication",
+                "examples": [
+                    "**'GG WP'** (Good Game, Well Played)",
+                    "**'I got rekt'** (məğlub oldum)",
+                    "**'Camping is cheap'** (gizlənib gözləmək)",
+                    "**'Need healing!'** (mənə müalicə lazımdır)",
+                    "**'AFK'** (klaviaturadan uzaqda)",
+                    "**'OP champion'** (çox güclü personaj)",
+                    "**'Let's farm some minions'** (qızıl toplamaq)",
+                    "**'Don't feed!'** (düşmənə asan qələbə vermə)"
+                ],
+                "rules": [
+                    "**Akronimlər**: LOL (League of Legends və ya Laugh Out Loud), FPS (First Person Shooter)",
+                    "**Komanda əməkdaşlığı**: 'Push mid', 'Defend the base', 'Group up'",
+                    "**İnterneşnl dil**: Çoxlu dil qarışığı (Rush B, noob, pro)",
+                    "**Twitch chat dili**: PogChamp, Kappa, LUL",
+                    "**Rəqəbət dili**: 'Clutch play', 'Outplayed', 'Skill gap'"
+                ],
+                "commonMistakes": [
+                    "❌ 'I am absent from keyboard' → ✅ 'AFK'",
+                    "❌ 'That player is not good' → ✅ 'He's a noob'",
+                    "❌ 'Let us attack together' → ✅ 'Group up and push'"
+                ],
+                "practice": [
+                    {
+                        "question": "What does 'noob' mean in gaming?",
+                        "options": [
+                            "Professional player",
+                            "Inexperienced player",
+                            "Game developer"
+                        ],
+                        "correct": "Inexperienced player"
+                    },
+                    {
+                        "question": "If your teammate says 'GL HF' at match start, they mean:",
+                        "options": [
+                            "Get lost, have fun",
+                            "Good luck, have fun",
+                            "Great lunch, have food"
+                        ],
+                        "correct": "Good luck, have fun"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "title": "Climate Change & Environmental Vocabulary",
+            "category": "Vocabulary & Current Issues",
+            "level": "Upper-Intermediate",
+            "duration": "30 dəqiqə",
+            "points": 80,
+            "content": {
+                "description": "İqlim dəyişikliyi qlobal müzakirələrin mərkəzindədir. Bu dərs ətraf mühit, dayanıqlı inkişaf, yaşıl texnologiyalar və ekoloji problemlərlə bağlı vacib terminləri öyrədir. Xəbərləri başa düşmək, məqalələr oxumaq və ekoloji mövzularda söhbət etmək üçün lazım olan lüğət.",
+                "formula": "Environmental Issue + Scientific/Political Terminology = Informed Discussion",
+                "examples": [
+                    "**'Carbon footprint'** (karbon izi)",
+                    "**'Renewable energy sources'** (bərpa olunan enerji mənbələri)",
+                    "**'The planet is at a tipping point'** (geri dönüş nöqtəsi)",
+                    "**'We need to reduce single-use plastics'** (tək istifadəlik plastik)",
+                    "**'Deforestation is accelerating'** (meşələrin məhv edilməsi)",
+                    "**'Climate resilience'** (iqlim dəyişikliyinə davamlılıq)",
+                    "**'Net zero emissions'** (sıfır emissiya balansı)",
+                    "**'Circular economy'** (dairəvi iqtisadiyyat)"
+                ],
+                "rules": [
+                    "**Elmi terminlər**: Biodiversity, ecosystem, photosynthesis",
+                    "**Politik terminlər**: Paris Agreement, COP meetings, green policies",
+                    "**Texnoloji həllər**: Solar panels, wind turbines, electric vehicles",
+                    "**Metrik vahidlər**: Degrees Celsius, parts per million (ppm), metric tons",
+                    "**Hərəkətə çağırış**: 'Take action', 'Raise awareness', 'Advocate for change'"
+                ],
+                "commonMistakes": [
+                    "❌ 'The weather is changing' → ✅ 'The climate is changing'",
+                    "❌ 'Global warming' (köhnəlmiş) → ✅ 'Climate change' (daha dəqiq)",
+                    "❌ 'Recycling garbage' → ✅ 'Recycling waste'"
+                ],
+                "practice": [
+                    {
+                        "question": "What does 'sustainability' mean?",
+                        "options": [
+                            "Making maximum profit",
+                            "Meeting needs without compromising future generations",
+                            "Using all available resources"
+                        ],
+                        "correct": "Meeting needs without compromising future generations"
+                    },
+                    {
+                        "question": "If a product is 'biodegradable', it:",
+                        "options": [
+                            "Lasts forever",
+                            "Breaks down naturally",
+                            "Is made of plastic"
+                        ],
+                        "correct": "Breaks down naturally"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "title": "English for Travel Influencers",
+            "category": "Speaking & Content Creation",
+            "level": "Intermediate",
+            "duration": "25 dəqiqə",
+            "points": 70,
+            "content": {
+                "description": "Instagram və TikTok-da səyahət kontenti yaradanlar üçün xüsusi ingilis dili. Bu dərs səyahət bloqerliyi, reels üçün yazılar hazırlamaq, mehmanxana rezervasiyaları, yerli mədəniyyətlə ünsiyyət və səyahət təcrübələrini cəlbedici şəkildə təsvir etmək bacarıqlarını öyrədir. 'Hidden gems', 'off the beaten path', 'bucket list' kimi populyar ifadələrlə işləyəcəyik.",
+                "formula": "Travel Experience + Engaging Language = Captivating Content",
+                "examples": [
+                    "**'This view is absolutely breathtaking! 🤯'** (Nəfəs kəsən mənzərə)",
+                    "**'A hidden gem you won't find in guidebooks'** (Bələdçilərdə olmayan gizli gözəl yer)",
+                    "**'Pro tip: Visit early to avoid the crowds'** (Peşəkar məsləhət)",
+                    "**'The food here is to die for! 😋'** (Çox dadlı yemək)",
+                    "**'Getting lost in these charming streets'** (Ovuntuçu küçələrdə itmək)",
+                    "**'Wanderlust alert! ✈️'** (Səyahət həvəsi)",
+                    "**'This belongs on everyone's bucket list'** (Hər kəsin görməli olduğu yer)",
+                    "**'Travel hack: Use local transportation'** (Səyahət hiyləsi)"
+                ],
+                "rules": [
+                    "**Hashtag strategiyası**: #travelgram #wanderlust #solotravel",
+                    "**Emoji istifadəsi**: ✈️🏝️🗺️📸 - mövzuya uyğun emojilər",
+                    "**Qısa və cəlbedici**: 'You NEED to see this!' 'Don't miss out!'",
+                    "**Yerli mədəniyyətə hörmət**: 'Respect local customs', 'Learn basic phrases'",
+                    "**Rəvayət texnikası**: Storytelling - başlanğıc, inkişaf, son"
+                ],
+                "commonMistakes": [
+                    "❌ 'The hotel was good' → ✅ 'The hospitality was unmatched!'",
+                    "❌ 'I went to Paris' → ✅ 'I fell in love with Paris at first sight'",
+                    "❌ 'Nice beach' → ✅ 'Pristine beaches with crystal clear waters'",
+                    "❌ 'Food was tasty' → ✅ 'A culinary journey you won't forget'"
+                ],
+                "practice": [
+                    {
+                        "question": "Which caption is most engaging for a travel photo?",
+                        "options": [
+                            "Picture of mountains",
+                            "Find your peace in these majestic peaks 🏔️",
+                            "Mountains are nice"
+                        ],
+                        "correct": "Find your peace in these majestic peaks 🏔️"
+                    },
+                    {
+                        "question": "What does 'off the beaten path' mean?",
+                        "options": [
+                            "A popular tourist destination",
+                            "A remote, less-visited place",
+                            "A dangerous area"
+                        ],
+                        "correct": "A remote, less-visited place"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 21,
+            "title": "Dating App English & Modern Romance",
+            "category": "Speaking & Social English",
+            "level": "Intermediate",
+            "duration": "20 dəqiqə",
+            "points": 65,
+            "content": {
+                "description": "Tinder, Bumble kibi dating app'lerde ve modern romantik ilişkilerde işlenen özel ingilizce. Bu ders flörtleşme dili, ilk mesajlaşma stratejileri, reddetme ve reddedilme durumlarında kibar ifadeler, ve online dating kültürünü öğretir. 'Ghosting', 'breadcrumbing', 'situationship' gibi modern terimleri öğreneceğiz.",
+                "formula": "Appropriate Flirting + Clear Communication = Better Connections",
+                "examples": [
+                    "**'Hey, I noticed you like hiking too!'** (Ortak ilgi alanıyla başlama)",
+                    "**'What's the best adventure you've been on recently?'** (Açık uçlu soru)",
+                    "**'I had a great time, but I don't feel a romantic connection'** (Kibar reddetme)",
+                    "**'Are you more of a beach or mountain person?'** (Eğlenceli soru)",
+                    "**'Let's move this conversation to coffee ☕️'** (Gerçek hayata geçiş önerisi)",
+                    "**'I appreciate your honesty'** (Reddedilince kibar cevap)",
+                    "**'No pressure, but I'd love to continue chatting'** (Rahat hissettirme)",
+                    "**'Your dog is adorable! What's their name?'** (Profil fotoğrafı hakkında yorum)"
+                ],
+                "rules": [
+                    "**İlk mesaj kuralı**: Kişiselleştirilmiş, kısa, neşeli",
+                    "**Emoji dengesi**: 😊👍☕️🍷 - aşırı değil, uygun",
+                    "**Sınırları belirleme**: 'What are you looking for on here?'",
+                    "**Güvenlik**: 'Let's meet in a public place first'",
+                    "**Zamanlama**: Çok hızlı veya çok yavaş olmamak"
+                ],
+                "commonMistakes": [
+                    "❌ 'Hey' → ✅ 'Hey, I see you love traveling! What's your favorite destination?'",
+                    "❌ 'You're hot' → ✅ 'You have a great smile!'",
+                    "❌ 'Why aren't you answering?' → ✅ 'Hope you're having a good week!'",
+                    "❌ 'Let's get married' → ✅ 'I'd love to get to know you better over coffee'"
+                ],
+                "practice": [
+                    {
+                        "question": "What's a better opening message on a dating app?",
+                        "options": [
+                            "Hi",
+                            "Hey beautiful",
+                            "Your hiking photos look amazing! Do you have a favorite trail?"
+                        ],
+                        "correct": "Your hiking photos look amazing! Do you have a favorite trail?"
+                    },
+                    {
+                        "question": "If someone 'ghosts' you, they:",
+                        "options": [
+                            "Sends too many messages",
+                            "Suddenly stops responding without explanation",
+                            "Asks to meet too quickly"
+                        ],
+                        "correct": "Suddenly stops responding without explanation"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 22,
+            "title": "English for Crypto & Web3",
+            "category": "Vocabulary & Technology",
+            "level": "Upper-Intermediate",
+            "duration": "30 dəqiqə",
+            "points": 85,
+            "content": {
+                "description": "Kripto para, blockchain, NFT ve Web3 dünyasının özel terminolojisi. Bu ders CoinMarketCap okumak, Twitter'da crypto influencer'ları takip etmek, Whitepaper anlamak ve crypto topluluklarıyla iletişim kurmak için gerekli dili öğretir. 'HODL', 'FOMO', 'DYOR' gibi jargonları ve teknik terimleri öğreneceğiz.",
+                "formula": "Blockchain Concept + Crypto Slang = Web3 Communication",
+                "examples": [
+                    "**'BTC is mooning! 🚀'** (Bitcoin hızla yükseliyor)",
+                    "**'Always DYOR before investing'** (Do Your Own Research - Kendi araştırmanı yap)",
+                    "**'I'm HODLing through this dip'** (Düşüşte satmadan beklemek)",
+                    "**'That's a rug pull, stay away'** (Dolandırıcılık projesi)",
+                    "**'The gas fees are insane right now'** (İşlem ücretleri)",
+                    "**'This NFT project has great utility'** (Fayda, kullanım alanı)",
+                    "**'We're still early in this bull run'** (Boğa piyasası)",
+                    "**'Not your keys, not your crypto'** (Anahtarlar sende değilse, kripto senin değil)"
+                ],
+                "rules": [
+                    "**Akronimler**: NFT, DAO, DeFi, CeFi, DApp",
+                    "**Piysa terimleri**: Bull market, bear market, sideways trading",
+                    "**Teknik analiz**: Support/resistance levels, moving averages",
+                    "**Güvenlik**: Private keys, cold storage, 2FA",
+                    "**Topluluk dili**: WAGMI (We're All Gonna Make It), NGMI (Not Gonna Make It)"
+                ],
+                "commonMistakes": [
+                    "❌ 'I lost my bitcoin password' → ✅ 'I lost access to my wallet'",
+                    "❌ 'Digital money' → ✅ 'Cryptocurrency' veya 'digital asset'",
+                    "❌ 'Computer money' → ✅ 'Decentralized digital currency'",
+                    "❌ 'I'll buy all the cryptos' → ✅ 'I'll diversify my crypto portfolio'"
+                ],
+                "practice": [
+                    {
+                        "question": "What does 'FOMO' mean in crypto context?",
+                        "options": [
+                            "Fear Of Missing Out - Kaçırma korkusu",
+                            "Full Online Market Order",
+                            "Free Online Money Opportunity"
+                        ],
+                        "correct": "Fear Of Missing Out - Kaçırma korkusu"
+                    },
+                    {
+                        "question": "If someone says 'to the moon', they mean:",
+                        "options": [
+                            "The price will drop sharply",
+                            "The price will increase dramatically",
+                            "It's time to sell everything"
+                        ],
+                        "correct": "The price will increase dramatically"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 23,
+            "title": "Mental Health & Wellness Vocabulary",
+            "category": "Vocabulary & Social Issues",
+            "level": "Intermediate",
+            "duration": "25 dəqiqə",
+            "points": 75,
+            "content": {
+                "description": "Ruh sağlığı, terapi, mindfulness ve kişisel gelişim konularında konuşmak için gerekli ingilizce. Bu ders duyguları ifade etmek, sınırları belirlemek, destek istemek ve wellness kavramlarını anlamak için gerekli dili öğretir. 'Self-care', 'burnout', 'mindfulness' gibi modern wellness terimlerini öğreneceğiz.",
+                "formula": "Emotional State + Wellness Concept = Healthy Communication",
+                "examples": [
+                    "**'I'm feeling overwhelmed lately'** (Bunalmış hissetmek)",
+                    "**'I need to set some boundaries'** (Sınırlar koymak)",
+                    "**'Practicing mindfulness helps my anxiety'** (Farkındalık pratiği)",
+                    "**'I'm experiencing burnout at work'** (Tükenmişlik sendromu)",
+                    "**'Let's normalize talking about mental health'** (Normalleştirmek)",
+                    "**'I'm prioritizing self-care this weekend'** (Öz bakım)",
+                    "**'It's okay to not be okay'** (İyi olmamak normaldir)",
+                    "**'I'm working on my coping mechanisms'** (Başa çıkma mekanizmaları)"
+                ],
+                "rules": [
+                    "**Duygu dilinde spesifik olmak**: 'I feel anxious' vs 'I feel bad'",
+                    "**'I' cümleleri kullanmak**: 'I feel' instead of 'You make me feel'",
+                    "**Destekleyici dil**: 'I hear you', 'That sounds difficult'",
+                    "**Stigma'yı azaltan dil**: 'Seeing a therapist' yerine 'mental health professional'",
+                    "**Eylem odaklı**: 'I'm taking steps to...' 'I'm learning to...'"
+                ],
+                "commonMistakes": [
+                    "❌ 'You're making me depressed' → ✅ 'I've been feeling depressed lately'",
+                    "❌ 'Just be happy' → ✅ 'What helps you when you feel down?'",
+                    "❌ 'Everyone gets stressed' → ✅ 'Your feelings are valid'",
+                    "❌ 'You're crazy' → ✅ 'You seem to be struggling'"
+                ],
+                "practice": [
+                    {
+                        "question": "What does 'practicing self-compassion' mean?",
+                        "options": [
+                            "Being selfish",
+                            "Being kind to yourself as you would to a friend",
+                            "Ignoring your problems"
+                        ],
+                        "correct": "Being kind to yourself as you would to a friend"
+                    },
+                    {
+                        "question": "Which is a better way to offer support?",
+                        "options": [
+                            "Just get over it",
+                            "I'm here if you want to talk about it",
+                            "Other people have it worse"
+                        ],
+                        "correct": "I'm here if you want to talk about it"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 24,
+            "title": "Podcast & YouTube Creator English",
+            "category": "Speaking & Content Creation",
+            "level": "Upper-Intermediate",
+            "duration": "35 dəqiqə",
+            "points": 90,
+            "content": {
+                "description": "Podcast hazırlamak, YouTube videosu çekmek veya canlı yayın yapmak için gerekli ingilizce. Bu ders intro/outro yazmak, seyirciyle etkileşim kurmak, sponsorluk anlaşmalarını açıklamak ve içerik oluşturucu jargonunu öğretir. 'Hit that like button', 'don't forget to subscribe', 'let's dive in' gibi ifadeleri öğreneceğiz.",
+                "formula": "Engaging Hook + Valuable Content + Call to Action = Successful Content",
+                "examples": [
+                    "**'Welcome back to the channel!'** (Kanala hoş geldiniz)",
+                    "**'Before we dive in, don't forget to hit subscribe'** (Abone olma çağrısı)",
+                    "**'Today's video is sponsored by...'** (Sponsor açıklaması)",
+                    "**'Let me know in the comments below'** (Yorumlarda bildirin)",
+                    "**'Here's a pro tip you won't want to miss'** (Profesyonel ipucu)",
+                    "**'That's a wrap for today's episode!'** (Bölüm sonu)",
+                    "**'Shout out to our patreon supporters'** (Destekçilere teşekkür)",
+                    "**'Timestamps are in the description'** (Zaman damgaları)"
+                ],
+                "rules": [
+                    "**Hook (Kanca)**: İlk 15 saniye kritik - 'Have you ever wondered...'",
+                    "**CTAs (Call to Action)**: Like, subscribe, comment, share, bell icon",
+                    "**Sponsor integrasyonu**: Doğal, açık, FTC kurallarına uygun",
+                    "**Seyirci etkileşimi**: Sorular sormak, poll'lar, community posts",
+                    "**SEO odaklı**: Başlık, açıklama, tag'ler optimize edilmeli"
+                ],
+                "commonMistakes": [
+                    "❌ 'Buy this product' → ✅ 'I've been using this product for months and here's my honest review'",
+                    "❌ 'Subscribe to my channel' (sıkıcı) → ✅ 'If you enjoy learning about X, consider subscribing for more'",
+                    "❌ 'This video is about English' → ✅ 'In today's video, you'll learn 5 phrases that will transform your English'",
+                    "❌ 'Goodbye' → ✅ 'Thanks for watching, see you in the next one!'"
+                ],
+                "practice": [
+                    {
+                        "question": "What's the purpose of saying 'don't forget to hit the bell icon'?",
+                        "options": [
+                            "To make more noise",
+                            "To get notifications when new videos are posted",
+                            "To report the channel"
+                        ],
+                        "correct": "To get notifications when new videos are posted"
+                    },
+                    {
+                        "question": "Which is a better video title for SEO?",
+                        "options": [
+                            "My Trip to Japan",
+                            "10 Things You MUST Do in Tokyo | Japan Travel Guide 2024",
+                            "Japan Vlog"
+                        ],
+                        "correct": "10 Things You MUST Do in Tokyo | Japan Travel Guide 2024"
+                    }
+                ]
+            }
+        }
+    ]
+}
