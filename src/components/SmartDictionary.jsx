@@ -7,37 +7,37 @@ function LangDictionary() {
   const [error, setError] = useState('');
   const [recentSearches, setRecentSearches] = useState([]);
 
-  function searchWord(word) {
-    if (!word) return;
-    setLoading(true);
-    setError('');
-    setWordData(null);
+  // function searchWord(word) {
+  //   if (!word) return;
+  //   setLoading(true);
+  //   setError('');
+  //   setWordData(null);
 
-    fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${word}`)
-      .then(response => {
-        if (response.ok) {
-          return response.json();
-        } else {
-          setError('Söz tapılmadı');
-          setLoading(false);
-          throw new Error('Söz tapılmadı');
-        }
-      })
-      .then(data => {
-        if (data) {
-          const wordInfo = data[0];
-          setWordData(wordInfo);
+  //   fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${word}`)
+  //     .then(response => {
+  //       if (response.ok) {
+  //         return response.json();
+  //       } else {
+  //         setError('Söz tapılmadı');
+  //         setLoading(false);
+  //         throw new Error('Söz tapılmadı');
+  //       }
+  //     })
+  //     .then(data => {
+  //       if (data) {
+  //         const wordInfo = data[0];
+  //         setWordData(wordInfo);
 
-          setRecentSearches(prev => {
-            const list = [wordInfo, ...prev.filter(w => w.word !== wordInfo.word)];
-            return list.slice(0, 5);
-          });
+  //         setRecentSearches(prev => {
+  //           const list = [wordInfo, ...prev.filter(w => w.word !== wordInfo.word)];
+  //           return list.slice(0, 5);
+  //         });
 
-          setLoading(false);
-        }
-      })
-      .catch(() => setLoading(false));
-  }
+  //         setLoading(false);
+  //       }
+  //     })
+  //     .catch(() => setLoading(false));
+  // }
 
   function handleSubmit(e) {
     e.preventDefault();
