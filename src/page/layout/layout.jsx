@@ -6,17 +6,29 @@ import DailyChallenge from '../../components/DailyChallenge'
 import SmartDictionary from '../../components/SmartDictionary'
 import AudioPractice from '../../components/AudioPractice'
 import QuickTranslate from '../../components/QuickTranslate'
+import DailyWord from '../../components/DailyWord'
+import SentenceBuilder from '../../components/SentenceBuilder'
+import VisualMatch from '../../components/VisualMatch'
+import MemoryGame from '../../components/MemoryGame'
 
 function Layout() {
     return (
         <>
             <LanguageFeatures />
-            <TopLanguages />
+            {/* <TopLanguages /> */}
             {/* <LangLearn /> */}
-            <DailyChallenge />
-            <SmartDictionary />
-            <AudioPractice />
-            <QuickTranslate/>
+            {/* <DailyChallenge /> */}
+            {/* <SmartDictionary /> */}
+            {/* <AudioPractice /> */}
+            {/* <QuickTranslate/> */}
+
+            {/* <DailyWord/> */}
+
+            {/* <SentenceBuilder /> */}
+
+            {/* <VisualMatch /> */}
+
+            {/* <MemoryGame /> */}
 
         </>
     )

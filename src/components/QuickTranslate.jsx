@@ -7,19 +7,19 @@ function QuickTranslate() {
     const [loading, setLoading] = useState(false);
     const [isEnToAz, setIsEnToAz] = useState(true);
 
-    function handleTranslate() {
-        if (!text.trim()) return;
-        setLoading(true);
-        const langPair = isEnToAz ? "en|az" : "az|en";
+    // function handleTranslate() {
+    //     if (!text.trim()) return;
+    //     setLoading(true);
+    //     const langPair = isEnToAz ? "en|az" : "az|en";
 
-        fetch(`https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=${langPair}`)
-            .then(res => res.json())
-            .then(data => {
-                if (data.responseData) setResult(data.responseData.translatedText);
-            })
-            .catch(() => setResult("Xəta baş verdi!"))
-            .finally(() => setLoading(false));
-    };
+    //     fetch(`https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=${langPair}`)
+    //         .then(res => res.json())
+    //         .then(data => {
+    //             if (data.responseData) setResult(data.responseData.translatedText);
+    //         })
+    //         .catch(() => setResult("Xəta baş verdi!"))
+    //         .finally(() => setLoading(false));
+    // };
 
     function toggleDirection() {
         setIsEnToAz(!isEnToAz);
