@@ -41,7 +41,7 @@ function AudioPractice() {
     }
 
     return (
-        <div className="mx-auto my-4 md:my-8 p-4 md:p-8 bg-[#f8faff] border border-blue-50 shadow-xl rounded-[25px] md:rounded-[35px] font-sans">
+        <div className="px-8 md:px-16 lg:px-20 mx-auto my-4 md:my-8 p-4 md:p-8 font-sans">
             <h2 className="text-xl md:text-3xl font-black text-slate-800 text-center mb-6 flex justify-center gap-3">
                 <BookText className="text-blue-600 w-6 h-6 md:w-8 md:h-8" /> LangLearn Reader
             </h2>

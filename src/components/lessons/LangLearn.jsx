@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { BookText, Clock, Star } from 'lucide-react';
 import LangLearnView from "./LangLearnView";
-import langData from "../data/languages.json";
+import langData from "../../data/languages.json";
 
 function LangLearn() {
     const [lessons] = useState(langData.grammarLessons);

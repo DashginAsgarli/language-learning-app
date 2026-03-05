@@ -1,13 +1,13 @@
 import React from 'react'
-import Layout from './page/layout/layout'
-import Header from './page/layout/Header'
+import Header from './page/header/Header'
+import { Outlet } from 'react-router-dom'
+
 
 function App() {
   return (
     <>
       <Header />
-      <Layout />
-
+      <Outlet />
     </>
   )
 }

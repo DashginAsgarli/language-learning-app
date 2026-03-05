@@ -1,15 +1,16 @@
 import { useState } from "react";
 import { BookOpenCheck, Menu, X, Bell, ChevronRight } from "lucide-react";
+import { Routes, Route, Link, NavLink } from "react-router-dom";
 
 function Header() {
     const [menuOpen, setMenuOpen] = useState(false);
     const [activeNav, setActiveNav] = useState("Ana Səhifə");
 
     const navItems = [
-        { label: "Ana Səhifə" },
-        { label: "Dərslər", badge: "9+" },
-        { label: "Oyunlar" },
-        { label: "Liderboard" },
+        { label: "Ana Səhifə" ,to: "/"},
+        { label: "Dərslər", badge: "9+" ,to: "/lessons"},
+        { label: "Oyunlar", to: "/games" },
+        { label: "Liderboard", to: "/leaderboard" },
     ];
 
     return (
@@ -30,7 +31,7 @@ function Header() {
                         <nav className="hidden md:flex items-center gap-0.5 lg:gap-1 mx-2">
                             {navItems.map((item) => (
                                 <button key={item.label} onClick={() => setActiveNav(item.label)} className={`px-3 lg:px-5 py-2 rounded-xl text-[11px] lg:text-sm font-bold transition-all whitespace-nowrap ${activeNav === item.label ? "bg-blue-50 text-blue-600" : "text-slate-500 hover:text-slate-800 hover:bg-slate-50"}`}>
-                                    {item.label}
+                                 <Link to={item.to}> {item.label} </Link>
                                     {item.badge && (
                                         <span className="ml-1 text-[9px] bg-blue-500 text-white px-1.5 py-0.5 rounded-full font-black">
                                             {item.badge}

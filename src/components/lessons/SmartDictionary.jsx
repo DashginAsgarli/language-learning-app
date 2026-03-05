@@ -47,7 +47,7 @@ function LangDictionary() {
   }
 
   return (
-    <div className="bg-slate-50 border border-slate-200 rounded-[32px] p-5 md:p-10 my-8 mx-auto  shadow-2xl shadow-slate-200/50">
+    <div className="p-5 md:p-10 my-8 mx-auto">
 
       <div className="text-center mb-10">
         <h2 className="text-4xl md:text-5xl font-black text-slate-800 tracking-tight mb-3">
