@@ -14,7 +14,7 @@ function LangLearn() {
     }
 
     return (
-        <div className=" mx-auto my-8 p-10 bg-[#f4f7ff] border border-blue-100 shadow-[0_15px_40px_rgba(28,63,170,0.08)] rounded-[25px] relative overflow-hidden">
+        <div className=" px-8 md:px-16 lg:px-20 my-8 p-10 bg-[#f4f7ff] border border-blue-100 shadow-[0_15px_40px_rgba(28,63,170,0.08)] rounded-[25px] relative overflow-hidden">
             <div className="text-center mb-12 relative z-10">
                 <h2 className="text-[1.7rem] md:text-[2.8rem] font-bold text-[#1e293b] flex items-center justify-center gap-4 mb-3">
                     <BookText className="text-slate-800 w-7 h-7 md:w-10 md:h-10" /> İngilis Qrammatikası
