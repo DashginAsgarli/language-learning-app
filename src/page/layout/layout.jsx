@@ -15,19 +15,20 @@ function Layout() {
     return (
         <>
             <LanguageFeatures />
-            {/* <TopLanguages /> */}
-            {/* <LangLearn /> */}
-            {/* <DailyChallenge /> */}
-            {/* <SmartDictionary /> */}
-            {/* <AudioPractice /> */}
-            {/* <QuickTranslate/> */}
+            <TopLanguages />
+            <LangLearn />
+            <DailyChallenge />
+            <SmartDictionary />
+            <AudioPractice />
+            <QuickTranslate />
 
-            {/* <DailyWord/> */}
+            <DailyWord/>
 
-            {/* <SentenceBuilder /> */}
+            <SentenceBuilder />
+
+
 
             {/* <VisualMatch /> */}
-
             {/* <MemoryGame /> */}
 
         </>

@@ -51,7 +51,7 @@ function LangLearnView({ lesson, onBack, onComplete, isCompleted }) {
 
     return (
         <div className="min-h-screen bg-gradient-to-b from-slate-50 to-slate-100 text-slate-900 font-sans p-3 md:p-15">
-            <div className=" mx-auto">
+            <div className=" px-8 md:px-16 lg:px-20">
                 <button onClick={onBack} className="group mb-4 md:mb-8 flex items-center gap-2 px-4 py-2 bg-white hover:bg-slate-800 hover:text-white text-slate-700 border border-slate-200 rounded-xl transition-all duration-300 font-bold text-xs md:text-sm shadow-sm">
                     <ArrowLeft size={16} className="group-hover:-translate-x-1 transition-transform" />
                     DƏRSLƏRƏ QAYIT

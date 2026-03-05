@@ -26,7 +26,7 @@ function LanguageFeatures() {
 
     return (
         <>
-            <section className="relative py-16 md:py-24 px-6 flex flex-col items-center overflow-hidden bg-[#FAFBFF] ">
+            <section className="relative py-16 md:py-24 px-8 md:px-16 lg:px-20 flex flex-col items-center overflow-hidden bg-[#FAFBFF] ">
                 <div className="text-center max-w-3xl mb-12 md:mb-20">
                     <h2 className="text-3xl md:text-5xl font-extrabold text-slate-800 mb-6 leading-tight">
                         Dil öyrənmək üçün <span className="text-blue-500">pulsuz, <span className='text-red-700'>əyləncəli</span></span> və <span className="text-emerald-600">effektiv</span> yol!
